@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+		<title>マイドクター マニュアル</title>
+		<linkBase />
+		<item>
+				<category>はじめに/マイドクターの概要</category>
+				<link>01 はじめに/01 マイドクターの概要.html</link>
+		</item>
+		<item>
+				<category>はじめに/マイドクターの動作環境</category>
+				<link>01 はじめに/02 マイドクターの動作環境.html</link>
+		</item>
+		<item>
+				<category>はじめに/マニュアルの表記について</category>
+				<link>01 はじめに/03 マニュアルの表記について.html</link>
+		</item>
+		<item>
+				<category>はじめに/マニュアルの読み上げ方について</category>
+				<link>01 はじめに/04 マニュアルの読み上げ方について.html</link>
+		</item>
+		<item>
+				<category>はじめに/著作権について</category>
+				<link>01 はじめに/05 著作権について.html</link>
+		</item>
+		<item>
+				<category>マイドクターについて/マイドクターとは、どんなことができるソフトですか？</category>
+				<link>02 マイドクターについて/01 マイドクターとは、どんなことができるソフトですか？.html</link>
+		</item>
+		<item>
+				<category>マイドクターについて/使用上の注意点</category>
+				<link>02 マイドクターについて/02 使用上の注意点.html</link>
+		</item>
+		<item>
+				<category>マイドクターについて/インターネットエクスプローラのように操作が難しくないですか？</category>
+				<link>02 マイドクターについて/03 インターネットエクスプローラのように操作が難しくないですか？.html</link>
+		</item>
+		<item>
+				<category>マイドクターについて/ホームページの読み上げ機能は、どうなっていますか？</category>
+				<link>02 マイドクターについて/04 ホームページの読み上げ機能は、どうなっていますか？.html</link>
+		</item>
+		<item>
+				<category>マイドクターについて/ダイヤルアップ接続でも使用できますか？</category>
+				<link>02 マイドクターについて/05 ダイヤルアップ接続でも使用できますか？.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/マイドクターの起動</category>
+				<link>03 基本的な使い方/01 マイドクターの起動.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/マイドクターの終了</category>
+				<link>03 基本的な使い方/02 マイドクターの終了.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/はじめに</category>
+				<link>03 基本的な使い方/03 トピックを読もう/01 はじめに.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/目次の使い方</category>
+				<link>03 基本的な使い方/03 トピックを読もう/02 目次の使い方.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/トピックの一覧/トピック一覧の操作</category>
+				<link>03 基本的な使い方/03 トピックを読もう/03 トピックの一覧/01 トピック一覧の操作.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/トピックの一覧/トピック一覧の読み上げ</category>
+				<link>03 基本的な使い方/03 トピックを読もう/03 トピックの一覧/02 トピック一覧の読み上げ.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/本文の参照/カーソルの移動</category>
+				<link>03 基本的な使い方/03 トピックを読もう/04 本文の参照/01 カーソルの移動.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/本文の参照/本文の読み上げ操作</category>
+				<link>03 基本的な使い方/03 トピックを読もう/04 本文の参照/02 本文の読み上げ操作.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/本文の参照/本文読み上げ中のキー操作</category>
+				<link>03 基本的な使い方/03 トピックを読もう/04 本文の参照/03 本文読み上げ中のキー操作.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/本文の参照/リンクを実行する/リンク先のメディアを参照する</category>
+				<link>03 基本的な使い方/03 トピックを読もう/04 本文の参照/04 リンクを実行する/01 リンク先のメディアを参照する.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/本文の参照/リンクを実行する/リンク先の画像を参照する</category>
+				<link>03 基本的な使い方/03 トピックを読もう/04 本文の参照/04 リンクを実行する/02 リンク先の画像を参照する.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/本文の参照/履歴を戻る／進む</category>
+				<link>03 基本的な使い方/03 トピックを読もう/04 本文の参照/05 履歴を戻る／進む.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/本文の参照/表示画像を確認する</category>
+				<link>03 基本的な使い方/03 トピックを読もう/04 本文の参照/06 表示画像を確認する.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/メディアの再生</category>
+				<link>03 基本的な使い方/03 トピックを読もう/05 メディアの再生.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/探してみよう/キーワードを入力して探す</category>
+				<link>03 基本的な使い方/03 トピックを読もう/06 探してみよう/01 キーワードを入力して探す.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピックを読もう/探してみよう/検索地域を切り替える</category>
+				<link>03 基本的な使い方/03 トピックを読もう/06 探してみよう/02 検索地域を切り替える.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピック検索の使い方/検索の実行</category>
+				<link>03 基本的な使い方/04 トピック検索の使い方/01 検索の実行.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/トピック検索の使い方/検索結果の一覧</category>
+				<link>03 基本的な使い方/04 トピック検索の使い方/02 検索結果の一覧.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/お気に入りの使い方/お気に入りに追加</category>
+				<link>03 基本的な使い方/05 お気に入りの使い方/01 お気に入りに追加.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/お気に入りの使い方/お気に入りの更新</category>
+				<link>03 基本的な使い方/05 お気に入りの使い方/02 お気に入りの更新.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/お気に入りの使い方/お気に入りの並び替え</category>
+				<link>03 基本的な使い方/05 お気に入りの使い方/03 お気に入りの並び替え.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/お気に入りの使い方/お気に入りの削除</category>
+				<link>03 基本的な使い方/05 お気に入りの使い方/04 お気に入りの削除.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/保存ボックスの使い方/ボックスの新規作成</category>
+				<link>03 基本的な使い方/06 保存ボックスの使い方/01 ボックスの新規作成.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/保存ボックスの使い方/トピックを保存する</category>
+				<link>03 基本的な使い方/06 保存ボックスの使い方/02 トピックを保存する.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/保存ボックスの使い方/トピックを削除する</category>
+				<link>03 基本的な使い方/06 保存ボックスの使い方/03 トピックを削除する.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/保存ボックスの使い方/ボックスの名前変更</category>
+				<link>03 基本的な使い方/06 保存ボックスの使い方/04 ボックスの名前変更.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/保存ボックスの使い方/ボックスの並び替え</category>
+				<link>03 基本的な使い方/06 保存ボックスの使い方/05 ボックスの並び替え.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/保存ボックスの使い方/ボックスの削除</category>
+				<link>03 基本的な使い方/06 保存ボックスの使い方/06 ボックスの削除.html</link>
+		</item>
+		<item>
+				<category>基本的な使い方/保存ボックスの使い方/ボックスデータの書き出しと取り込み</category>
+				<link>03 基本的な使い方/06 保存ボックスの使い方/07 ボックスデータの書き出しと取り込み.html</link>
+		</item>
+		<item>
+				<category>便利な機能とその使い方/チャンネル選択の操作キー</category>
+				<link>04 便利な機能とその使い方/01 チャンネル選択の操作キー.html</link>
+		</item>
+		<item>
+				<category>便利な機能とその使い方/別のアプリケーションを利用する/マイワードで開く</category>
+				<link>04 便利な機能とその使い方/02 別のアプリケーションを利用する/01 マイワードで開く.html</link>
+		</item>
+		<item>
+				<category>便利な機能とその使い方/別のアプリケーションを利用する/テキスト保存して活用する</category>
+				<link>04 便利な機能とその使い方/02 別のアプリケーションを利用する/02 テキスト保存して活用する.html</link>
+		</item>
+		<item>
+				<category>便利な機能とその使い方/別のアプリケーションを利用する/本文をコピーして活用する</category>
+				<link>04 便利な機能とその使い方/02 別のアプリケーションを利用する/03 本文をコピーして活用する.html</link>
+		</item>
+		<item>
+				<category>便利な機能とその使い方/文字列の検索/トピック一覧での検索</category>
+				<link>04 便利な機能とその使い方/03 文字列の検索/01 トピック一覧での検索.html</link>
+		</item>
+		<item>
+				<category>便利な機能とその使い方/文字列の検索/トピック参照画面での検索</category>
+				<link>04 便利な機能とその使い方/03 文字列の検索/02 トピック参照画面での検索.html</link>
+		</item>
+		<item>
+				<category>便利な機能とその使い方/タブレット専用モード</category>
+				<link>04 便利な機能とその使い方/タブレット専用モード.html</link>
+		</item>
+		<item>
+				<category>環境設定とヘルプ/画面表示の設定/画面の拡大</category>
+				<link>05 環境設定とヘルプ/01 画面表示の設定/01 画面の拡大.html</link>
+		</item>
+		<item>
+				<category>環境設定とヘルプ/画面表示の設定/表示オプションの設定</category>
+				<link>05 環境設定とヘルプ/01 画面表示の設定/02 表示オプションの設定.html</link>
+		</item>
+		<item>
+				<category>環境設定とヘルプ/画面表示の設定/その他の表示設定</category>
+				<link>05 環境設定とヘルプ/01 画面表示の設定/03 その他の表示設定.html</link>
+		</item>
+		<item>
+				<category>環境設定とヘルプ/一覧オプションの設定</category>
+				<link>05 環境設定とヘルプ/02 一覧オプションの設定.html</link>
+		</item>
+		<item>
+				<category>環境設定とヘルプ/オフラインで使用する</category>
+				<link>05 環境設定とヘルプ/03 オフラインで使用する.html</link>
+		</item>
+		<item>
+				<category>環境設定とヘルプ/マイドクターを最新版に更新する</category>
+				<link>05 環境設定とヘルプ/04 マイドクターを最新版に更新する.html</link>
+		</item>
+		<item>
+				<category>環境設定とヘルプ/対応チャンネルのメンテナンス</category>
+				<link>05 環境設定とヘルプ/05 対応チャンネルのメンテナンス.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/全般</category>
+				<link>06 フルキーコマンド/01 全般.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/チャンネル選択</category>
+				<link>06 フルキーコマンド/02 チャンネル選択.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/【目次】の操作</category>
+				<link>06 フルキーコマンド/03 【目次】の操作.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/トピック一覧</category>
+				<link>06 フルキーコマンド/04 トピック一覧.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/トピック本文の参照</category>
+				<link>06 フルキーコマンド/05 トピック本文の参照.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/画像を参照する</category>
+				<link>06 フルキーコマンド/06 画像を参照する.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/メディアの再生</category>
+				<link>06 フルキーコマンド/07 メディアの再生.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド/検索地域の切り替え画面の操作</category>
+				<link>06 フルキーコマンド/08 検索地域の切り替え画面の操作.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/全般</category>
+				<link>07 点字コマンド/01 全般.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/チャンネル選択</category>
+				<link>07 点字コマンド/02 チャンネル選択.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/【目次】の操作</category>
+				<link>07 点字コマンド/03 【目次】の操作.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/トピック一覧</category>
+				<link>07 点字コマンド/04 トピック一覧.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/トピック本文の参照</category>
+				<link>07 点字コマンド/05 トピック本文の参照.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/画像を参照する</category>
+				<link>07 点字コマンド/06 画像を参照する.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/メディアの再生</category>
+				<link>07 点字コマンド/07 メディアの再生.html</link>
+		</item>
+		<item>
+				<category>点字コマンド/検索地域の切り替え画面の操作</category>
+				<link>07 点字コマンド/08 検索地域の切り替え画面の操作.html</link>
+		</item>
+		<item>
+				<category>更新履歴</category>
+				<link>08 更新履歴.html</link>
+		</item>
+</list-index>
