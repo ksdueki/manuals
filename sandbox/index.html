@@ -13,7 +13,27 @@
 
 <body>
     <div class="container">
-        <div class="row">
+        <table>
+            <tr>
+                <td>
+                    <h3>原本</h3>
+                    <textarea id="in" rows="20" cols="60"></textarea>
+                </td>
+                <td>
+                    <button id="conv" type="button" class="btn btn-default">変換</button>
+                </td>
+                <td>
+                    <h3>変換後のHTML</h3>
+                    <textarea id="out" rows="20" cols="60" readonly></textarea>
+                </td>
+                <td>
+                    <h3>Webでの表示</h3>
+                    <div id="textbox" class="top4 preview">
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <!-- <div class="row">
             <div class="col-5">
                 <h3>原本</h3>
                 <textarea id="in" rows="20" cols="60"></textarea>
@@ -33,7 +53,7 @@
                 </div>
 
             </div>
-        </div>
+        </div> -->
 
 </body>
 <script>
@@ -53,7 +73,7 @@
     }
     document.getElementById("conv").onclick = function() {
         var input_body = document.getElementById("in").value;
-        axios.post('/conv.php', {
+        axios.post('./conv.php', {
                 body: input_body
             })
             .then(function(response) {
