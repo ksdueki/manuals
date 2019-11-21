@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link href="https://aok-net.jp/textwebr.css" rel="stylesheet">
+    <title>sandbox</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <h3>原本</h3>
+                <textarea id="in" rows="20" cols="60"></textarea>
+            </div>
+            <div class="col-2">
+                <button id="conv" type="button" class="btn btn-default">変換</button>
+            </div>
+            <div class="col-5">
+                <h3>Webでの表示</h3>
+                <div class="row">
+                    <textarea id="out" rows="20" cols="60" readonly></textarea>
+                </div>
+                <h3>プレビュー</h3>
+                <div class="row">
+                    <div id="textbox" class="top4 preview">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+</body>
+<script>
+    window.onload = function() {
+        document.getElementById("in").innerHTML =
+            `&lt;pre&gt
+トピック一覧にはトピックが並び、選択しながらトピックの題名とその公開日時を確認できます。トピックの本文は、読み上げ機能を使って読むことができます。
+●トピック一覧の操作
+一覧の操作も、目次と同じように簡単なキー操作でおこなうことができます。
+&lt;/pre&gt;
+&lt;code&gt
+上のトピックを選択,↑
+下のトピックを選択,↓
+選択しているトピックの本文読み上げ,→,Space
+目次(ジャンル)へ戻る,←,Escape
+&lt;/code&gt;`;
+    }
+    document.getElementById("conv").onclick = function() {
+        var input_body = document.getElementById("in").value;
+        axios.post('/conv.php', {
+                body: input_body
+            })
+            .then(function(response) {
+                document.getElementById("out").innerHTML = response["data"];
+                document.getElementsByClassName("preview")[0].innerHTML = response["data"];
+                console.log(response);
+            })
+            .catch(function(error) {
+                console.log(error);
+            });
+    };
+</script>
+
+</html>
