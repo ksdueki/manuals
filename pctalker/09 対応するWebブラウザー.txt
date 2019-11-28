@@ -1,0 +1,34 @@
+◆◆◆ 対応するWebブラウザーについて
+
+PC-Talkerは、他社が開発する次の3つのWebブラウザー製品の読み上げに対応しています。
+　１．Internet Explorer
+　２．Google Chrome
+　３．Mozilla Firefox
+
+◇◇◇◇◇ Internet Explorerについて
+
+Internet Explorerは、Microsoftが開発するWebブラウザーです。
+Windows 10(日本語版)に標準でインストールされているので、パソコンを買ったときから使い始めることができます。
+今後、Internet Explorerの大きなバージョンアップはないと言われていますので、現在の画面構成や機能、操作性が今後も変わることはないでしょう。
+
+［補足］Windows 10には、もう１つのWebブラウザー「Microsoft Edge」が標準でインストールされています。Microsoftは、Windows 10の既定のWebブラウザーとして、Microsoft Edgeを推奨していますが、現在のPC-Talkerは、Edgeの読み上げに対応していません。
+
+
+◇◇◇◇◇ Google Chromeについて
+
+Google Chromeは、Google社が開発する無料のWebブラウザーです。
+（以下、Chromeと略します）
+Chromeは、Googleのホームページからダウンロードしてインストールします。
+Chromeは、現在、https://www.google.com/chrome/　からダウンロードできます。
+Chromeは、数ヶ月に１回の頻度でバージョンアップを繰り返し、最先端技術への対応や、新機能が追加されています。バージョンアップによって、閲覧するWebページの内容が変わることはありませんが、画面構成や機能、Chromeの使い方が変わる場合がありますので注意が必要です。
+また、Chromeの頻繁なバージョンアップで生じた読み上げ操作の不具合に対しては、早期にPC-Talkerの修正、対応バージョンをリリースしていきます。
+
+
+◇◇◇◇◇ Mozilla Firefoxについて
+
+Mozilla Firefoxは、Mozillaが開発する無料のWebブラウザーです。
+（以下、Firefoxと略します）
+Firefoxは、Mozillaのホームページからダウンロードしてインストールします。
+Firefoxは、現在、https://www.mozilla.org/ja/firefox/new/　からダウンロードできます。
+FirefoxもChrome同様に、数ヶ月に１回の頻度でバージョンアップが行われます。バージョンアップによって、閲覧するWebページの内容が変わることはありませんが、画面構成や機能、Firefoxの使い方が変わる場合がありますので注意が必要です。
+また、Firefoxの頻繁なバージョンアップで生じた読み上げ操作の不具合に対しては、早期にPC-Talkerの修正、対応バージョンをリリースしていきます。

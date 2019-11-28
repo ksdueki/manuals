@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="shift_jis" ?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+
+	<title>PC-Talker マニュアル</title>
+	<linkBase />
+
+<!-- はじめに -->
+
+	<item>
+		<category>はじめに/概要</category>
+		<link>01 概要.txt</link>
+	</item>
+	<item>
+		<category>はじめに/動作環境</category>
+		<link>01 動作環境.txt</link>
+	</item>
+
+	<item>
+		<category>はじめに/本製品の新機能情報</category>
+		<link>01 本製品の新機能情報.txt</link>
+	</item>
+
+	<item>
+		<category>はじめに/VDMWシリーズの製品統合について</category>
+		<link>01 VDMWシリーズの製品統合.txt</link>
+	</item>
+
+	<item>
+		<category>はじめに/本マニュアルについて</category>
+		<link>01 本マニュアルについて.txt</link>
+	</item>
+
+	<item>
+		<category>はじめに/注意事項と制限事項</category>
+		<link>01 注意事項と制限事項.txt</link>
+	</item>
+
+<!-- ライセンスとセットアップ -->
+
+	<item>
+		<category>ライセンスとセットアップ/ライセンスの認証と更新</category>
+		<link>02 ライセンスの認証と更新.txt</link>
+	</item>
+
+	<item>
+		<category>ライセンスとセットアップ/スタートアップディスクのセットアップ</category>
+		<link>02 スタートアップディスク.txt</link>
+	</item>
+
+	<item>
+		<category>ライセンスとセットアップ/インストールガイド</category>
+		<link>02 インストールガイド.txt</link>
+	</item>
+
+	<item>
+		<category>ライセンスとセットアップ/インストール方法１（DVDを使用）</category>
+		<link>02 インストール１.txt</link>
+	</item>
+
+	<item>
+		<category>ライセンスとセットアップ/インストール方法２（MySupportを使用）</category>
+		<link>02 インストール２.txt</link>
+	</item>
+
+	<item>
+		<category>ライセンスとセットアップ/アンインストール</category>
+		<link>02 アンインストール.txt</link>
+	</item>
+
+	<item>
+		<category>ライセンスとセットアップ/最新版への更新</category>
+		<link>02 最新版への更新.txt</link>
+	</item>
+
+<!-- 起動と終了 -->
+
+	<item>
+		<category>起動と終了/起動と終了</category>
+		<link>03 起動と終了.txt</link>
+	</item>
+
+	<item>
+		<category>起動と終了/ログオン画面での起動</category>
+		<link>03 ログオン画面での起動.txt</link>
+	</item>
+
+	<item>
+		<category>起動と終了/シャットダウン画面での起動</category>
+		<link>03 シャットダウン画面での起動.txt</link>
+	</item>
+
+	<item>
+		<category>起動と終了/自動起動の設定</category>
+		<link>03 自動起動の設定.txt</link>
+	</item>
+
+	<item>
+		<category>起動と終了/自動起動を中止するキー動作</category>
+		<link>03 自動起動の中止.txt</link>
+	</item>
+
+<!-- Windowsの基礎知識 -->
+
+	<item>
+		<category>Windows 10の基礎知識/スタートメニューとデスクトップ画面の構成
+</category>
+		<link>04 Windows10デスクトップの画面構成.txt</link>
+	</item>
+
+	<item>
+		<category>Windowsの基礎知識/アプリケーションの画面構成</category>
+		<link>04 アプリケーションの画面構成.txt</link>
+	</item>
+
+	<item>
+		<category>Windowsの基礎知識/ダイアログボックスのコントロール</category>
+		<link>04 ダイアログボックスのコントロール.txt</link>
+	</item>
+
+<!-- PC-Talkerの設定メニュー -->
+
+	<item>
+		<category>PC-Talkerの設定メニュー/設定メニューの操作</category>
+		<link>05 設定メニューの操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/項目の説明を聴きたいときはF1を押す</category>
+		<link>05 F1機能.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/音声基本設定</category>
+		<link>05 音声基本設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/英語音声の設定</category>
+		<link>05 英語音声の設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/読書音声の設定</category>
+		<link>05 読書音声の設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/音声ガイドの設定</category>
+		<link>05 音声ガイドの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/なめらか読みの読み方</category>
+		<link>05 なめらか読みの読み方.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/カーソル文字の読み方</category>
+		<link>05 カーソル文字の読み方.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/日本語変換時の読み方</category>
+		<link>05 日本語変換時の読み方.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/点字ディスプレイの設定</category>
+		<link>05 ピンディスプレイの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/Webブラウザーの設定</category>
+		<link>05 Webブラウザーの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/ユーザー補助</category>
+		<link>05 ユーザー補助.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/視覚的な補助</category>
+		<link>05 視覚的な補助.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/ヘルプ</category>
+		<link>05 ヘルプ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/PC-Talkerの終了</category>
+		<link>05 PC-Talkerの終了.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/設定値の書き出しと取り込み</category>
+		<link>05 設定値の書き出しと取り込み.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/設定値を出荷時の状態に戻す</category>
+		<link>05 設定値を出荷時の状態に戻す.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerの設定メニュー/VDMWユーザーのための互換設定</category>
+		<link>05 VDMWユーザーのための互換設定.txt</link>
+	</item>
+
+<!-- PC-Talkerのコマンド解説 -->
+
+	<item>
+		<category>PC-Talkerのコマンド解説/コマンド体系</category>
+		<link>PCTalker/06 コマンド体系.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PC-Talkerの制御コマンド</category>
+		<link>PCTalker/06 PC-Talkerの制御コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PC-Talkerの設定コマンド（設定メニュー項目の変更）</category>
+		<link>PCTalker/06 PC-Talkerの設定コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/ウィンドウ画面の情報読み上げ</category>
+		<link>PCTalker/06 ウィンドウ画面の情報読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/文字入力・文章の読み上げ</category>
+		<link>PCTalker/06 文字入力・文章の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/日本語変換中の読み上げ</category>
+		<link>PCTalker/06 日本語変換中の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/音声の出力履歴読み上げ</category>
+		<link>PCTalker/06 音声の出力履歴読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/マウス操作</category>
+		<link>PCTalker/06 マウス操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/タスクトレイ操作</category>
+		<link>PCTalker/06 タスクトレイ操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/テンキー　クリップボード読みモード</category>
+		<link>PCTalker/06 テンキー　クリップボード読みモード.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/テンキー　マウス操作モード</category>
+		<link>PCTalker/06 テンキー　マウス操作モード.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/ダイアログ内の仮想カーソル操作</category>
+		<link>PCTalker/06 ダイアログ内の仮想カーソル操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/レビューカーソル操作</category>
+		<link>PCTalker/06 レビューカーソル操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Webブラウザーの読み上げ</category>
+		<link>PCTalker/06 Webコントロールの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PDF文書（Adobe Reader）の読み上げ</category>
+		<link>PCTalker/06 PDF文書の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/コマンドプロンプトの読み上げ</category>
+		<link>PCTalker/06 コマンドプロンプトの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Windowsヘルプ画面（CHMファイル形式）の読み上げ</category>
+		<link>PCTalker/06 Windowsヘルプ画面の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/日付・時刻の読み上げ</category>
+		<link>PCTalker/06 日付・時刻の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/画面をOCR認識して読み上げ</category>
+		<link>PCTalker/06 画面をOCR認識して読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/画面のスクリーンショット</category>
+		<link>PCTalker/06 画面のスクリーンショット.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PC-Talkerコマンドのヘルプメニュー</category>
+		<link>PCTalker/06 コマンドのヘルプメニュー.txt</link>
+	</item>
+
+<!-- Microsoft Office音声ガイド -->
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Officeの音声ガイドについて</category>
+		<link>50 Office製品の音声ガイドについて.txt</link>
+	</item>
+
+<!-- Word -->
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/Word音声ガイドについて</category>
+		<link>PCTalker/Word/01 Word音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/読み上げオプションの設定</category>
+		<link>PCTalker/Word/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/読み上げコマンドの解説/文書の情報読み上げ</category>
+		<link>PCTalker/Word/03 文書の情報読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/読み上げコマンドの解説/文字・文章の読み上げ</category>
+		<link>PCTalker/Word/03 文字・文章の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/読み上げコマンドの解説/表の読み上げ</category>
+		<link>PCTalker/Word/03 表の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/読み上げコマンドの解説/文字書式・段落書式の音声ガイド</category>
+		<link>PCTalker/Word/03 文字書式・段落書式の音声ガイド.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/ナビゲーションキーモード</category>
+		<link>PCTalker/Word/04 ナビゲーションキーモード.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/クイックビュー</category>
+		<link>PCTalker/Word/05 クイックビュー.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/フルキーコマンド一覧</category>
+		<link>PCTalker/Word/06 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Word音声ガイド/付録：Word標準のコマンド一覧</category>
+		<link>PCTalker/Word/07 Word標準のコマンド一覧.txt</link>
+	</item>
+
+<!-- Excel -->
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/Excel音声ガイドについて</category>
+		<link>PCTalker/Excel/01 Excel音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/読み上げオプションの設定</category>
+		<link>PCTalker/Excel/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/読み上げコマンドの解説/シート・セルの読み上げ</category>
+		<link>PCTalker/Excel/03 シート・セルの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/読み上げコマンドの解説/セル入力時の読み上げ</category>
+		<link>PCTalker/Excel/03 セル入力時の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/読み上げコマンドの解説/表の読み上げ</category>
+		<link>PCTalker/Excel/03 表の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/セルの罫線を編集</category>
+		<link>PCTalker/Excel/04 セルの罫線を編集.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/セルのマークアップ</category>
+		<link>PCTalker/Excel/05 セルのマークアップ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/表の見出し管理</category>
+		<link>PCTalker/Excel/06 表の見出し管理.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/シートの閲覧モード</category>
+		<link>PCTalker/Excel/07 シートの閲覧モード.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/シートビュー</category>
+		<link>PCTalker/Excel/09 シートビュー.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/クイックビュー</category>
+		<link>PCTalker/Excel/10 クイックビュー.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/フルキーコマンド一覧</category>
+		<link>PCTalker/Excel/11 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Excel音声ガイド/付録：Excel標準のコマンド一覧</category>
+		<link>PCTalker/Excel/12 Excel標準のコマンド一覧.txt</link>
+	</item>
+
+<!-- PowerPoint -->
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/PowerPoint音声ガイドについて</category>
+		<link>PCTalker/PowerPoint/01 PowerPoint音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/読み上げオプションの設定</category>
+		<link>PCTalker/PowerPoint/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/読み上げコマンドの解説/スライドの読み上げ</category>
+		<link>PCTalker/PowerPoint/03 スライドの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/読み上げコマンドの解説/テキスト入力時の読み上げ</category>
+		<link>PCTalker/PowerPoint/03 テキスト入力時の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/読み上げコマンドの解説/スライドショー実行中の読み上げ</category>
+		<link>PCTalker/PowerPoint/03 スライドショー実行中の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/スライドの閲覧モード</category>
+		<link>PCTalker/PowerPoint/04 スライドの閲覧モード.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/クイックビュー</category>
+		<link>PCTalker/PowerPoint/05 クイックビュー.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/フルキーコマンド一覧</category>
+		<link>PCTalker/PowerPoint/06 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/PowerPoint音声ガイド/付録：PowerPoint標準のコマンド一覧</category>
+		<link>PCTalker/PowerPoint/07 PowerPoint標準のコマンド一覧.txt</link>
+	</item>
+
+<!-- Outlook -->
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/Outlook音声ガイドについて</category>
+		<link>PCTalker/Outlook/01 Outlook音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/読み上げオプションの設定</category>
+		<link>PCTalker/Outlook/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/読み上げコマンドの解説/メールの読み上げ</category>
+		<link>PCTalker/Outlook/03 メールの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/読み上げコマンドの解説/予定表の読み上げ</category>
+		<link>PCTalker/Outlook/03 予定表の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/クイックレビュー</category>
+		<link>PCTalker/Outlook/04 クイックレビュー.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/フルキーコマンド一覧</category>
+		<link>PCTalker/Outlook/05 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook基本的な使い方/Outlookの機能</category>
+		<link>PCTalker/Outlook/06 Outlookの機能.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook基本的な使い方/メイン画面の操作</category>
+		<link>PCTalker/Outlook/06 メイン画面の操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook基本的な使い方/電子メールアカウントの設定</category>
+		<link>PCTalker/Outlook/06 電子メールアカウントの設定.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook基本的な使い方/電子メールの操作</category>
+		<link>PCTalker/Outlook/06 電子メールの操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook基本的な使い方/連絡先の操作</category>
+		<link>PCTalker/Outlook/06 連絡先の操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook基本的な使い方/予定表の操作</category>
+		<link>PCTalker/Outlook/06 予定表の操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook基本的な使い方/タスクの操作</category>
+		<link>PCTalker/Outlook/06 タスクの操作.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/Outlook音声ガイド/付録：Outlook標準のコマンド一覧</category>
+		<link>PCTalker/Outlook/07 Outlook標準のコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/フルキーコマンド一覧</category>
+		<link>PCTalker/06 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>PC-Talkerのコマンド解説/点字コマンド一覧</category>
+		<link>PCTalker/06 点字コマンド一覧.txt</link>
+	</item>
+
+<!-- VDMWユーザーのコマンド解説 -->
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) コマンド体系</category>
+		<link>VDMW/06 コマンド体系.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PC-Talkerの制御コマンド</category>
+		<link>VDMW/06 VDMWの制御コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PC-Talkerの設定コマンド（設定メニュー項目の変更）</category>
+		<link>VDMW/06 VDMWの設定コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) ウィンドウ画面の情報読み上げ</category>
+		<link>VDMW/06 ウィンドウ画面の情報読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) 文字入力・文章の読み上げ</category>
+		<link>VDMW/06 文字入力・文章の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) 日本語変換中の読み上げ</category>
+		<link>VDMW/06 日本語変換中の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) 音声の出力履歴読み上げ</category>
+		<link>VDMW/06 音声の出力履歴読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) マウス操作</category>
+		<link>VDMW/06 マウス操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) タスクトレイ操作</category>
+		<link>VDMW/06 タスクトレイ操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) テンキー　クリップボード読みモード</category>
+		<link>VDMW/06 テンキー　クリップボード読みモード.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) テンキー　マウス操作モード</category>
+		<link>VDMW/06 テンキー　マウス操作モード.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) ダイアログ内の仮想カーソル操作</category>
+		<link>VDMW/06 ダイアログ内の仮想カーソル操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) レビューカーソル操作</category>
+		<link>VDMW/06 レビューカーソル操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Webブラウザーの読み上げ</category>
+		<link>VDMW/06 Webコントロールの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PDF文書（Adobe Reader）の読み上げ</category>
+		<link>VDMW/06 PDF文書の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) コマンドプロンプトの読み上げ</category>
+		<link>VDMW/06 コマンドプロンプトの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Windowsヘルプ画面（CHMファイル形式）の読み上げ</category>
+		<link>VDMW/06 Windowsヘルプ画面の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) 日付・時刻の読み上げ</category>
+		<link>VDMW/06 日付・時刻の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) 画面をOCR認識して読み上げ</category>
+		<link>VDMW/06 画面をOCR認識して読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) 画面のスクリーンショット</category>
+		<link>VDMW/06 画面のスクリーンショット.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PC-Talkerコマンドのヘルプメニュー</category>
+		<link>VDMW/06 コマンドのヘルプメニュー.txt</link>
+	</item>
+
+<!-- Microsoft Office音声ガイド -->
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Officeの音声ガイドについて</category>
+		<link>50 Office製品の音声ガイドについて(VDMW).txt</link>
+	</item>
+
+<!-- Word -->
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/Word音声ガイドについて</category>
+		<link>VDMW/Word/01 Word音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/読み上げオプションの設定</category>
+		<link>VDMW/Word/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/読み上げコマンドの解説/文書の情報読み上げ</category>
+		<link>VDMW/Word/03 文書の情報読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/読み上げコマンドの解説/文字・文章の読み上げ</category>
+		<link>VDMW/Word/03 文字・文章の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/読み上げコマンドの解説/表の読み上げ</category>
+		<link>VDMW/Word/03 表の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/読み上げコマンドの解説/文字書式・段落書式の音声ガイド</category>
+		<link>VDMW/Word/03 文字書式・段落書式の音声ガイド.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/ナビゲーションキーモード</category>
+		<link>VDMW/Word/04 ナビゲーションキーモード.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/クイックビュー</category>
+		<link>VDMW/Word/05 クイックビュー.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/フルキーコマンド一覧</category>
+		<link>VDMW/Word/06 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Word音声ガイド/付録：Word標準のコマンド一覧</category>
+		<link>VDMW/Word/07 Word標準のコマンド一覧.txt</link>
+	</item>
+
+<!-- Excel -->
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/Excel音声ガイドについて</category>
+		<link>VDMW/Excel/01 Excel音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/読み上げオプションの設定</category>
+		<link>VDMW/Excel/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/読み上げコマンドの解説/シート・セルの読み上げ</category>
+		<link>VDMW/Excel/03 シート・セルの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/読み上げコマンドの解説/セル入力時の読み上げ</category>
+		<link>VDMW/Excel/03 セル入力時の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/読み上げコマンドの解説/表の読み上げ</category>
+		<link>VDMW/Excel/03 表の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/セルの罫線を編集</category>
+		<link>VDMW/Excel/04 セルの罫線を編集.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/セルのマークアップ</category>
+		<link>VDMW/Excel/05 セルのマークアップ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/表の見出し管理</category>
+		<link>VDMW/Excel/06 表の見出し管理.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/シートの閲覧モード</category>
+		<link>VDMW/Excel/07 シートの閲覧モード.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/シートビュー</category>
+		<link>VDMW/Excel/09 シートビュー.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/クイックビュー</category>
+		<link>VDMW/Excel/10 クイックビュー.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/フルキーコマンド一覧</category>
+		<link>VDMW/Excel/11 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Excel音声ガイド/付録：Excel標準のコマンド一覧</category>
+		<link>VDMW/Excel/12 Excel標準のコマンド一覧.txt</link>
+	</item>
+
+<!-- PowerPoint -->
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/PowerPoint音声ガイドについて</category>
+		<link>VDMW/PowerPoint/01 PowerPoint音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/読み上げオプションの設定</category>
+		<link>VDMW/PowerPoint/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/読み上げコマンドの解説/スライドの読み上げ</category>
+		<link>VDMW/PowerPoint/03 スライドの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/読み上げコマンドの解説/テキスト入力時の読み上げ</category>
+		<link>VDMW/PowerPoint/03 テキスト入力時の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/読み上げコマンドの解説/スライドショー実行中の読み上げ</category>
+		<link>VDMW/PowerPoint/03 スライドショー実行中の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/スライドの閲覧モード</category>
+		<link>VDMW/PowerPoint/04 スライドの閲覧モード.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/クイックビュー</category>
+		<link>VDMW/PowerPoint/05 クイックビュー.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/フルキーコマンド一覧</category>
+		<link>VDMW/PowerPoint/06 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) PowerPoint音声ガイド/付録：PowerPoint標準のコマンド一覧</category>
+		<link>VDMW/PowerPoint/07 PowerPoint標準のコマンド一覧.txt</link>
+	</item>
+
+<!-- Outlook -->
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/Outlook音声ガイドについて</category>
+		<link>VDMW/Outlook/01 Outlook音声ガイドについて.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/読み上げオプションの設定</category>
+		<link>VDMW/Outlook/02 読み上げオプションの設定.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/読み上げコマンドの解説/メールの読み上げ</category>
+		<link>VDMW/Outlook/03 メールの読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/読み上げコマンドの解説/予定表の読み上げ</category>
+		<link>VDMW/Outlook/03 予定表の読み上げ.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/クイックレビュー</category>
+		<link>VDMW/Outlook/04 クイックレビュー.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/フルキーコマンド一覧</category>
+		<link>VDMW/Outlook/05 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook基本的な使い方/Outlookの機能</category>
+		<link>VDMW/Outlook/06 Outlookの機能.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook基本的な使い方/メイン画面の操作</category>
+		<link>VDMW/Outlook/06 メイン画面の操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook基本的な使い方/電子メールアカウントの設定</category>
+		<link>VDMW/Outlook/06 電子メールアカウントの設定.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook基本的な使い方/電子メールの操作</category>
+		<link>VDMW/Outlook/06 電子メールの操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook基本的な使い方/連絡先の操作</category>
+		<link>VDMW/Outlook/06 連絡先の操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook基本的な使い方/予定表の操作</category>
+		<link>VDMW/Outlook/06 予定表の操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook基本的な使い方/タスクの操作</category>
+		<link>VDMW/Outlook/06 タスクの操作.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) Outlook音声ガイド/付録：Outlook標準のコマンド一覧</category>
+		<link>VDMW/Outlook/07 Outlook標準のコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) フルキーコマンド一覧</category>
+		<link>VDMW/06 フルキーコマンド一覧.txt</link>
+	</item>
+
+	<item>
+		<category>VDMWユーザーのコマンド解説/(VDMWモード) 点字コマンド一覧</category>
+		<link>VDMW/06 点字コマンド一覧.txt</link>
+	</item>
+
+<!-- 点字ディスプレイの使用 -->
+
+	<item>
+		<category>点字ディスプレイの使用/点字ディスプレイの表示機能について</category>
+		<link>07 ピンディスプレイの表示機能について.txt</link>
+	</item>
+
+	<item>
+		<category>点字ディスプレイの使用/点字ディスプレイの接続・設定確認</category>
+		<link>07 ピンディスプレイの接続・設定確認.txt</link>
+	</item>
+
+	<item>
+		<category>点字ディスプレイの使用/点字ディスプレイの表示操作</category>
+		<link>07 ピンディスプレイの表示操作.txt</link>
+	</item>
+
+<!-- 読み辞書の登録 -->
+
+	<item>
+		<category>読み辞書の登録</category>
+		<link>08 読み辞書の登録.txt</link>
+	</item>
+
+<!-- Webブラウザーの読み上げ -->
+
+	<item>
+		<category>Webブラウザーの読み上げ/対応するWebブラウザーについて</category>
+		<link>09 対応するWebブラウザー.txt</link>
+	</item>
+
+	<item>
+		<category>Webブラウザーの読み上げ/Internet Explorerの標準コマンド</category>
+		<link>09 IE標準コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>Webブラウザーの読み上げ/Chromeの標準コマンド</category>
+		<link>09 Chrome標準コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>Webブラウザーの読み上げ/Firefoxの標準コマンド</category>
+		<link>09 Firefox標準コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>Webブラウザーの読み上げ/PC-Talker独自の読み上げコマンド</category>
+		<link>09 PCTalker独自コマンド.txt</link>
+	</item>
+
+	<item>
+		<category>Webブラウザーの読み上げ/読み上げの基本操作</category>
+		<link>09 読み上げの基本操作.txt</link>
+	</item>
+
+
+<!-- Skype音声ガイド -->
+
+	<item>
+		<category>Skype音声ガイド</category>
+		<link>12 Skype音声ガイド.txt</link>
+	</item>
+
+<!-- Windows タッチ操作解説 -->
+
+	<item>
+		<category>Windows タッチ操作解説/PC-Talkerのタッチ対応について</category>
+		<link>15 タッチ対応について.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/基礎編のねらいと学習にあたって</category>
+		<link>15 基礎編のねらいと学習にあたって.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/タッチ操作の基本を予行練習</category>
+		<link>15 タッチの予行練習.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/マイサポートで覚えるタッチ操作/第１回　基本的な使い方は《なぞる操作》だけ</category>
+		<link>15 マイサポート 基本的な使い方.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/マイサポートで覚えるタッチ操作/第２回　本文ビューの読み上げ操作</category>
+		<link>15 マイサポート 本文の読み上げ操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/マイサポートで覚えるタッチ操作/第３回　プルダウンメニュー操作</category>
+		<link>15 マイサポート プルダウンメニュー操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/マイサポートで覚えるタッチ操作/第４回　本文ビューの編集操作</category>
+		<link>15 マイサポート 本文ビューの編集操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/マイサポートで覚えるタッチ操作/第５回　タッチ操作で起動と終了</category>
+		<link>15 マイサポート タッチ操作で起動と終了.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/マイサポートで覚えるタッチ操作/第６回　タッチ操作で情報読み</category>
+		<link>15 マイサポート タッチ操作で情報読み.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作 基礎編/マイサポートで覚えるタッチ操作/最終回　タッチ操作の専門用語を覚える</category>
+		<link>15 マイサポート タッチ操作の専門用語を覚える.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作と画面の向き</category>
+		<link>15 タッチ操作と画面の向き.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作のトレーニング機能</category>
+		<link>15 タッチ操作のトレーニング機能.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/Webブラウザーのタッチ操作</category>
+		<link>15 Webコントロールのタッチ操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/ウィンドウを切り替えるタッチ操作</category>
+		<link>15 ウィンドウを切り替えるタッチ操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/ダイアログ内のタッチ操作</category>
+		<link>15 ダイアログ内のタッチ操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/PC-Talkerコマンドを使う</category>
+		<link>15 コマンドヘルプを使う.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ操作の停止と再開</category>
+		<link>15 タッチ操作の停止と再開.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/タッチ操作による点字入力について</category>
+		<link>15 点字入力 タッチ操作による点字入力について.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/タッチ点字入力の開始と停止</category>
+		<link>15 点字入力 タッチ点字入力の開始と停止.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/タッチ点字入力中のフリック操作</category>
+		<link>15 点字入力 タッチ点字入力中のフリック操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/タッチ点字入力の設定</category>
+		<link>15 点字入力 タッチ点字入力の設定.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/基本的な入力方法
+</category>
+		<link>15 点字入力 基本的な入力方法.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/かな点字の入力</category>
+		<link>15 点字入力 かな点字の入力.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/六点漢字の入力</category>
+		<link>15 点字入力 六点漢字の入力.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/漢点字の入力</category>
+		<link>15 点字入力 漢点字の入力.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/単語入力</category>
+		<link>15 点字入力 単語入力.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/JISコード入力</category>
+		<link>15 点字入力 JISコード入力.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/点字コマンド入力</category>
+		<link>15 点字入力 点字コマンド入力.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/点字符号一覧/六点漢字（かな点字）/半角記号</category>
+		<link>15 点字入力 6点 半角記号.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/点字符号一覧/六点漢字（かな点字）/非漢字</category>
+		<link>15 点字入力 6点 非漢字.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/点字符号一覧/六点漢字（かな点字）/経穴・医学関係の漢字</category>
+		<link>15 点字入力 6点 経穴医学.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/点字符号一覧/漢点字/漢点字符号の非漢字</category>
+		<link>15 点字入力 8点 漢点字符号の非漢字.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/点字符号一覧/漢点字/六点符号の非漢字</category>
+		<link>15 点字入力 8点 六点符号の非漢字.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/タッチ点字入力/点字符号一覧/漢点字/経穴・医学関係の漢字</category>
+		<link>15 点字入力 8点 経穴医学.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/その他のタッチ操作</category>
+		<link>15 その他のタッチ操作.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/Windows 10 タッチビューモード/キーアシストとタッチビューの切り替え</category>
+		<link>15 キーアシストとタッチビューの切り替え.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/Windows 10 タッチビューモード/タッチビューの基本的な操作方法</category>
+		<link>15 タッチビューの基本的な操作方法.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/Windows 10 タッチビューモード/タッチキーボードで文字入力</category>
+		<link>15 タッチキーボードで文字入力.txt</link>
+	</item>
+
+	<item>
+		<category>Windows タッチ操作解説/Windows 10 タッチビューモード/キーアシストと共通のタッチ操作</category>
+		<link>15 キーアシストと共通のタッチ操作.txt</link>
+	</item>
+
+
+	<item>
+		<category>Windows タッチ操作解説/タッチコマンド一覧</category>
+		<link>15 タッチコマンド一覧.txt</link>
+	</item>
+
+
+<!-- 付録：文字入力の基礎 -->
+
+	<item>
+		<category>付録：文字入力の基礎</category>
+		<link>13 文字入力の基礎.txt</link>
+	</item>
+
+<!-- 付録：Ｑ＆Ａ -->
+
+	<item>
+		<category>付録：Ｑ＆Ａ</category>
+		<link>14 Ｑ＆Ａ.txt</link>
+	</item>
+
+<!-- 更新履歴 -->
+
+	<item>
+		<category>更新履歴</category>
+		<link>99 更新履歴.htm</link>
+	</item>
+
+</list-index>

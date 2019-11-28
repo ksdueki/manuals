@@ -1,0 +1,5 @@
+◆◆◆ PC-Talkerの終了
+
+PC-Talkerを終了させるときに実行してください。
+
+［補足］PC-Talkerを再起動させるには、Ctrl+Shift+F3を押します。
