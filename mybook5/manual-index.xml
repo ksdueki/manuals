@@ -1,417 +1,417 @@
-<?xml version="1.0" encoding="shift_jis" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <list-index xmlns="http://www.aok-net.com/list-index">
 
-	<title>MyBook�X �}�j���A��</title>
+	<title>MyBookⅤ マニュアル</title>
 	<linkBase />
 
-<!-- �͂��߂� -->
+	<!-- はじめに -->
 	<item>
-		<category>�͂��߂�/�}�C�u�b�N�̊T�v</category>
-		<link>�͂��߂�/�}�C�u�b�N�̊T�v.htm</link>
+		<category>はじめに/マイブックの概要</category>
+		<link>はじめに/マイブックの概要.html</link>
 	</item>
 	<item>
-		<category>�͂��߂�/�}�C�u�b�N�̓����</category>
-		<link>�͂��߂�/�}�C�u�b�N�̓����.htm</link>
+		<category>はじめに/マイブックの動作環境</category>
+		<link>はじめに/マイブックの動作環境.html</link>
 	</item>
 	<item>
-		<category>�͂��߂�/�}�j���A���̕\�L�ɂ���</category>
-		<link>�͂��߂�/�}�j���A���̕\�L�ɂ���.htm</link>
+		<category>はじめに/マニュアルの表記について</category>
+		<link>はじめに/マニュアルの表記について.html</link>
 	</item>
 	<item>
-		<category>�͂��߂�/�}�j���A���̓ǂݏグ���ɂ���</category>
-		<link>�͂��߂�/�}�j���A���̓ǂݏグ���ɂ���.htm</link>
+		<category>はじめに/マニュアルの読み上げ方について</category>
+		<link>はじめに/マニュアルの読み上げ方について.html</link>
 	</item>
 	<item>
-		<category>�͂��߂�/���쌠�ɂ���</category>
-		<link>�͂��߂�/���쌠�ɂ���.htm</link>
-	</item>
-
-<!-- �}�C�u�b�N�̋N���ƏI�� -->
-	<item>
-		<category>�}�C�u�b�N�̋N���ƏI��/�}�C�u�b�N�̋N��</category>
-		<link>�}�C�u�b�N�̋N���ƏI��/�}�C�u�b�N�̋N��.htm</link>
-	</item>
-	<item>
-		<category>�}�C�u�b�N�̋N���ƏI��/�}�C�u�b�N�̏I��</category>
-		<link>�}�C�u�b�N�̋N���ƏI��/�}�C�u�b�N�̏I��.htm</link>
+		<category>はじめに/著作権について</category>
+		<link>はじめに/著作権について.html</link>
 	</item>
 
-<!-- �Ǐ����n�߂悤 -->
+	<!-- マイブックの起動と終了 -->
 	<item>
-		<category>�Ǐ����n�߂悤/�C���^�[�l�b�g��̐}����ǂ�/�T�s�G�}����</category>
-		<link>�Ǐ����n�߂悤/�T�s�G�}����.htm</link>
+		<category>マイブックの起動と終了/マイブックの起動</category>
+		<link>マイブックの起動と終了/マイブックの起動.html</link>
 	</item>
 	<item>
-		<category>�Ǐ����n�߂悤/�C���^�[�l�b�g��̐}����ǂ�/�󕶌�</category>
-		<link>�Ǐ����n�߂悤/�󕶌�.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/�C���^�[�l�b�g��̐}����ǂ�/��������}����</category>
-		<link>�Ǐ����n�߂悤/��������}����.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/�C���^�[�l�b�g��̐}����ǂ�/������ǂ����I</category>
-		<link>�Ǐ����n�߂悤/������ǂ���.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/�C���^�[�l�b�g��̐}����ǂ�/�N���E�h�X�g���[�W</category>
-		<link>�Ǐ����n�߂悤/�I�����C���X�g���[�W.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/���f�B�A�ɓ����Ă���}����ǂ�/�f�C�W�[�b�c</category>
-		<link>�Ǐ����n�߂悤/�f�C�W�[�b�c.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/���f�B�A�ɓ����Ă���}����ǂ�/�I�[�f�B�I�u�b�N�b�c</category>
-		<link>�Ǐ����n�߂悤/�I�[�f�B�I�u�b�N�b�c.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/���f�B�A�ɓ����Ă���}����ǂ�/�g�уv���C���[</category>
-		<link>�Ǐ����n�߂悤/�g�уv���C���[.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/���f�B�A�ɓ����Ă���}����ǂ�/�g�уv���C���[�i�A�b�v�����i�j</category>
-		<link>�Ǐ����n�߂悤/�g�уv���C���[�i�A�b�v�����i�j.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/�f�B�X�N�ɕۑ����Ă���}����ǂ�</category>
-		<link>�Ǐ����n�߂悤/�f�B�X�N�ɕۑ����Ă���}����ǂ�.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/�}����T��/�T�C�g����}������</category>
-		<link>�Ǐ����n�߂悤/�T�C�g����}������.htm</link>
-	</item>
-	<item>
-		<category>�Ǐ����n�߂悤/�}����T��/�{�I����}�����o</category>
-		<link>�Ǐ����n�߂悤/�{�I����}�����o.htm</link>
+		<category>マイブックの起動と終了/マイブックの終了</category>
+		<link>マイブックの起動と終了/マイブックの終了.html</link>
 	</item>
 
-<!-- ��ʂ̊�{���� -->
+	<!-- 読書を始めよう -->
 	<item>
-		<category>��ʂ̊�{����/��ʂ̎��</category>
-		<link>��ʂ̊�{����/��ʂ̎��.htm</link>
+		<category>読書を始めよう/インターネット上の図書を読む/サピエ図書館</category>
+		<link>読書を始めよう/サピエ図書館.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/���j���[�I�����</category>
-		<link>��ʂ̊�{����/���j���[�I�����.htm</link>
+		<category>読書を始めよう/インターネット上の図書を読む/青空文庫</category>
+		<link>読書を始めよう/青空文庫.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�}���ꗗ���/�}���ꗗ�̑���</category>
-		<link>��ʂ̊�{����/�}���ꗗ�̑���.htm</link>
+		<category>読書を始めよう/インターネット上の図書を読む/国立国会図書館</category>
+		<link>読書を始めよう/国立国会図書館.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�}���ꗗ���/�}���ꗗ�̓ǂݏグ</category>
-		<link>��ʂ̊�{����/�}���ꗗ�̓ǂݏグ.htm</link>
+		<category>読書を始めよう/インターネット上の図書を読む/小説を読もう！</category>
+		<link>読書を始めよう/小説を読もう.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�}���ꗗ���/�}�����̌��o��</category>
-		<link>��ʂ̊�{����/�}�����̌��o��.htm</link>
+		<category>読書を始めよう/インターネット上の図書を読む/クラウドストレージ</category>
+		<link>読書を始めよう/オンラインストレージ.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�e�L�X�g�̓ǂݏグ���/�J�[�\���̈ړ�</category>
-		<link>��ʂ̊�{����/�J�[�\���̈ړ�.htm</link>
+		<category>読書を始めよう/メディアに入っている図書を読む/デイジーＣＤ</category>
+		<link>読書を始めよう/デイジーＣＤ.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�e�L�X�g�̓ǂݏグ���/�{���̓ǂݏグ</category>
-		<link>��ʂ̊�{����/�{���̓ǂݏグ.htm</link>
+		<category>読書を始めよう/メディアに入っている図書を読む/オーディオブックＣＤ</category>
+		<link>読書を始めよう/オーディオブックＣＤ.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�e�L�X�g�̓ǂݏグ���/�{���ǂݏグ���̑���</category>
-		<link>��ʂ̊�{����/�{���ǂݏグ���̑���.htm</link>
+		<category>読書を始めよう/メディアに入っている図書を読む/携帯プレイヤー</category>
+		<link>読書を始めよう/携帯プレイヤー.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�e�L�X�g�̓ǂݏグ���/�{�����烊���N���ꂽ�ʂ̖{�����J��</category>
-		<link>��ʂ̊�{����/�{�����烊���N���ꂽ�ʂ̖{�����J��.htm</link>
+		<category>読書を始めよう/メディアに入っている図書を読む/携帯プレイヤー（アップル製品）</category>
+		<link>読書を始めよう/携帯プレイヤー（アップル製品）.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�e�L�X�g�̓ǂݏグ���/�{�����烊���N���ꂽ���f�B�A���J��</category>
-		<link>��ʂ̊�{����/�{�����烊���N���ꂽ���f�B�A���J��.htm</link>
+		<category>読書を始めよう/ディスクに保存している図書を読む</category>
+		<link>読書を始めよう/ディスクに保存している図書を読む.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�e�L�X�g�̓ǂݏグ���/�{�����烊���N���ꂽ�摜���J��</category>
-		<link>��ʂ̊�{����/�{�����烊���N���ꂽ�摜���J��.htm</link>
+		<category>読書を始めよう/図書を探す/サイトから図書検索</category>
+		<link>読書を始めよう/サイトから図書検索.html</link>
 	</item>
 	<item>
-		<category>��ʂ̊�{����/�f�C�W�[�̍Đ����</category>
-		<link>��ʂ̊�{����/�f�C�W�[�̍Đ����.htm</link>
-	</item>
-	<item>
-		<category>��ʂ̊�{����/���f�B�A�̍Đ����</category>
-		<link>��ʂ̊�{����/���f�B�A�̍Đ����.htm</link>
+		<category>読書を始めよう/図書を探す/本棚から図書抽出</category>
+		<link>読書を始めよう/本棚から図書抽出.html</link>
 	</item>
 
-<!-- �{�I�����p���悤 -->
+	<!-- 画面の基本操作 -->
 	<item>
-		<category>�{�I�����p���悤/�{�I�̐V�K�쐬</category>
-		<link>�{�I�����p���悤/�{�I�̐V�K�쐬.htm</link>
+		<category>画面の基本操作/画面の種類</category>
+		<link>画面の基本操作/画面の種類.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�}����ۑ�����</category>
-		<link>�{�I�����p���悤/�}����ۑ�����.htm</link>
+		<category>画面の基本操作/メニュー選択画面</category>
+		<link>画面の基本操作/メニュー選択画面.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�}�����폜����</category>
-		<link>�{�I�����p���悤/�}�����폜����.htm</link>
+		<category>画面の基本操作/図書一覧画面/図書一覧の操作</category>
+		<link>画面の基本操作/図書一覧の操作.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̕ҏW/�{�I�̖��O�ύX</category>
-		<link>�{�I�����p���悤/�{�I�̖��O�ύX.htm</link>
+		<category>画面の基本操作/図書一覧画面/図書一覧の読み上げ</category>
+		<link>画面の基本操作/図書一覧の読み上げ.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̕ҏW/�{�I�̕��ёւ�</category>
-		<link>�{�I�����p���悤/�{�I�̕��ёւ�.htm</link>
+		<category>画面の基本操作/図書一覧画面/図書内の見出し</category>
+		<link>画面の基本操作/図書内の見出し.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̕ҏW/�{�I�̍폜</category>
-		<link>�{�I�����p���悤/�{�I�̍폜.htm</link>
+		<category>画面の基本操作/テキストの読み上げ画面/カーソルの移動</category>
+		<link>画面の基本操作/カーソルの移動.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̕ҏW/�t�H���_�̐V�K�쐬</category>
-		<link>�{�I�����p���悤/�t�H���_�̐V�K�쐬.htm</link>
+		<category>画面の基本操作/テキストの読み上げ画面/本文の読み上げ</category>
+		<link>画面の基本操作/本文の読み上げ.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̐���/�{�I���̕��ёւ�</category>
-		<link>�{�I�����p���悤/�{�I���̕��ёւ�.htm</link>
+		<category>画面の基本操作/テキストの読み上げ画面/本文読み上げ中の操作</category>
+		<link>画面の基本操作/本文読み上げ中の操作.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̐���/�ʂ̖{�I�ֈړ�</category>
-		<link>�{�I�����p���悤/�ʂ̖{�I�ֈړ�.htm</link>
+		<category>画面の基本操作/テキストの読み上げ画面/本文からリンクされた別の本文を開く</category>
+		<link>画面の基本操作/本文からリンクされた別の本文を開く.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̐���/�ʂ̖{�I�֕���</category>
-		<link>�{�I�����p���悤/�ʂ̖{�I�֕���.htm</link>
+		<category>画面の基本操作/テキストの読み上げ画面/本文からリンクされたメディアを開く</category>
+		<link>画面の基本操作/本文からリンクされたメディアを開く.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�̐���/�{�I�O�ɏ����o��</category>
-		<link>�{�I�����p���悤/�{�I�O�ɏ����o��.htm</link>
+		<category>画面の基本操作/テキストの読み上げ画面/本文からリンクされた画像を開く</category>
+		<link>画面の基本操作/本文からリンクされた画像を開く.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�f�[�^�̊Ǘ�/�o�b�N�A�b�v�ƃ��X�g�A</category>
-		<link>�{�I�����p���悤/�o�b�N�A�b�v�ƃ��X�g�A.htm</link>
+		<category>画面の基本操作/デイジーの再生画面</category>
+		<link>画面の基本操作/デイジーの再生画面.html</link>
 	</item>
 	<item>
-		<category>�{�I�����p���悤/�{�I�f�[�^�̊Ǘ�/�ۑ���̐ؑ�</category>
-		<link>�{�I�����p���悤/�ۑ���̐ؑ�.htm</link>
-	</item>
-
-<!-- �֗��ȋ@�\ -->
-	<item>
-		<category>�֗��ȋ@�\/������̌���/�}���ꗗ�̌���</category>
-		<link>�֗���/�}���ꗗ�̌���.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/������̌���/�}���{���̌���</category>
-		<link>�֗���/�}���{���̌���.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/������/�������t����</category>
-		<link>�֗���/�������t����.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/������/������̈ʒu�ֈړ�</category>
-		<link>�֗���/������̈ʒu�ֈړ�.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/������/������̕ҏW</category>
-		<link>�֗���/������̕ҏW.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�}���𑗂�/�g�уv���C���[�ɕۑ�</category>
-		<link>�֗���/�g�уv���C���[�ɕۑ�.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�}���𑗂�/�N���E�h�X�g���[�W�ɕۑ�</category>
-		<link>�֗���/�I�����C���X�g���[�W�ɕۑ�.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�}���𑗂�/�f�C�W�[���b�c�h���C�u�֑���</category>
-		<link>�֗���/�f�C�W�[���b�c�h���C�u�֑���.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�}���𑗂�/�f�C�W�[�������[�o�u���h���C�u�֑���</category>
-		<link>�֗���/�f�C�W�[�������[�o�u���h���C�u�֑���.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�f�C�W�[�^��</category>
-		<link>�֗���/�f�C�W�[�^��.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�_���t�@�C����_���G�f�B�^�ŊJ��</category>
-		<link>�֗���/�_���t�@�C����_���G�f�B�^�ŊJ��.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/���k�t�H���_�̗��p</category>
-		<link>�֗���/���k�t�H���_�̗��p.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�e���L�[����</category>
-		<link>�֗���/�e���L�[����.htm</link>
-	</item>
-	<item>
-		<category>�֗��ȋ@�\/�x�e�^�C�}�[</category>
-		<link>�֗���/�x�e�^�C�}�[.htm</link>
-	</item>
-  <item>
-    <category>�֗��ȋ@�\/�ǂݎ�����ҏW����</category>
-    <link>�֗���/�ǂݎ�����ҏW����.htm</link>
-  </item>
-  <item>
-    <category>�֗��ȋ@�\/MP3�^�O��ҏW����</category>
-    <link>�֗���/MP3�^�O��ҏW����.htm</link>
-  </item>
-
-  <!-- �}����t�@�C���̎�� -->
-	<item>
-		<category>�}����t�@�C���̎��/�f�C�W�[�}��</category>
-		<link>�}����t�@�C���̎��/�f�C�W�[�}��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/�I�[�f�B�I�u�b�N</category>
-		<link>�}����t�@�C���̎��/�I�[�f�B�I�u�b�N.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/�_���}��</category>
-		<link>�}����t�@�C���̎��/�_���}��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/PDF�t�@�C��</category>
-		<link>�}����t�@�C���̎��/PDF�t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/EPUB�t�@�C��</category>
-		<link>�}����t�@�C���̎��/EPUB�t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/Microsoft Office�t�@�C��</category>
-		<link>�}����t�@�C���̎��/Microsoft Office�t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/�_���t�@�C��</category>
-		<link>�}����t�@�C���̎��/�_���t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/.BOOK�t�@�C��</category>
-		<link>�}����t�@�C���̎��/�DBOOK�t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/ZIP�t�@�C��</category>
-		<link>�}����t�@�C���̎��/ZIP�t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/MyWord �����t�@�C��</category>
-		<link>�}����t�@�C���̎��/MyWord �����t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�}����t�@�C���̎��/���̑��̃t�@�C��</category>
-		<link>�}����t�@�C���̎��/���̑��̃t�@�C��.htm</link>
+		<category>画面の基本操作/メディアの再生画面</category>
+		<link>画面の基本操作/メディアの再生画面.html</link>
 	</item>
 
-<!-- ���ݒ� -->
+	<!-- 本棚を活用しよう -->
 	<item>
-		<category>���ݒ�/��ʕ\���̐ݒ�/��ʂ̊g��</category>
-		<link>���ݒ�/��ʂ̊g��.htm</link>
+		<category>本棚を活用しよう/本棚の新規作成</category>
+		<link>本棚を活用しよう/本棚の新規作成.html</link>
 	</item>
 	<item>
-		<category>���ݒ�/��ʕ\���̐ݒ�/�\���I�v�V�����̐ݒ�</category>
-		<link>���ݒ�/�\���I�v�V�����̐ݒ�.htm</link>
+		<category>本棚を活用しよう/図書を保存する</category>
+		<link>本棚を活用しよう/図書を保存する.html</link>
 	</item>
 	<item>
-		<category>���ݒ�/��ʕ\���̐ݒ�/���̑��̕\���ݒ�</category>
-		<link>���ݒ�/���̑��̕\���ݒ�.htm</link>
+		<category>本棚を活用しよう/図書を削除する</category>
+		<link>本棚を活用しよう/図書を削除する.html</link>
 	</item>
 	<item>
-		<category>���ݒ�/�}���I�v�V�����̐ݒ�</category>
-		<link>���ݒ�/�}���I�v�V�����̐ݒ�.htm</link>
+		<category>本棚を活用しよう/本棚の編集/本棚の名前変更</category>
+		<link>本棚を活用しよう/本棚の名前変更.html</link>
 	</item>
 	<item>
-		<category>���ݒ�/���̃N���[���A�b�v</category>
-		<link>���ݒ�/���̃N���[���A�b�v.htm</link>
+		<category>本棚を活用しよう/本棚の編集/本棚の並び替え</category>
+		<link>本棚を活用しよう/本棚の並び替え.html</link>
 	</item>
 	<item>
-		<category>���ݒ�/�}�C�u�b�N���ŐV�łɍX�V����</category>
-		<link>���ݒ�/�}�C�u�b�N���ŐV�łɍX�V����.htm</link>
-	</item>
-
-<!-- �t���L�[�R�}���h -->
-	<item>
-		<category>�t���L�[�R�}���h/�S��</category>
-		<link>�t���L�[�R�}���h/�S��.htm</link>
+		<category>本棚を活用しよう/本棚の編集/本棚の削除</category>
+		<link>本棚を活用しよう/本棚の削除.html</link>
 	</item>
 	<item>
-		<category>�t���L�[�R�}���h/���j���[�I��</category>
-		<link>�t���L�[�R�}���h/���j���[�I��.htm</link>
+		<category>本棚を活用しよう/本棚の編集/フォルダの新規作成</category>
+		<link>本棚を活用しよう/フォルダの新規作成.html</link>
 	</item>
 	<item>
-		<category>�t���L�[�R�}���h/�ꗗ�̑���</category>
-		<link>�t���L�[�R�}���h/�ꗗ�̑���.htm</link>
+		<category>本棚を活用しよう/本棚の整理/本棚内の並び替え</category>
+		<link>本棚を活用しよう/本棚内の並び替え.html</link>
 	</item>
 	<item>
-		<category>�t���L�[�R�}���h/�{���̎Q��</category>
-		<link>�t���L�[�R�}���h/�{���̎Q��.htm</link>
+		<category>本棚を活用しよう/本棚の整理/別の本棚へ移動</category>
+		<link>本棚を活用しよう/別の本棚へ移動.html</link>
 	</item>
 	<item>
-		<category>�t���L�[�R�}���h/���f�B�A �Đ����̑���</category>
-		<link>�t���L�[�R�}���h/���f�B�A�Đ����̑���.htm</link>
+		<category>本棚を活用しよう/本棚の整理/別の本棚へ複写</category>
+		<link>本棚を活用しよう/別の本棚へ複写.html</link>
 	</item>
 	<item>
-		<category>�t���L�[�R�}���h/�����f�C�W�[ �Đ����̑���</category>
-		<link>�t���L�[�R�}���h/�����f�C�W�[�Đ����̑���.htm</link>
+		<category>本棚を活用しよう/本棚の整理/本棚外に書き出し</category>
+		<link>本棚を活用しよう/本棚外に書き出し.html</link>
 	</item>
 	<item>
-		<category>�t���L�[�R�}���h/�e�L�X�g�f�C�W�[ �Đ����̑���</category>
-		<link>�t���L�[�R�}���h/�e�L�X�g�f�C�W�[�Đ����̑���.htm</link>
+		<category>本棚を活用しよう/本棚データの管理/バックアップとリストア</category>
+		<link>本棚を活用しよう/バックアップとリストア.html</link>
 	</item>
 	<item>
-		<category>�t���L�[�R�}���h/���̑� �S���ǂݒ��̑���</category>
-		<link>�t���L�[�R�}���h/���̑��S���ǂݒ��̑���.htm</link>
+		<category>本棚を活用しよう/本棚データの管理/保存先の切替</category>
+		<link>本棚を活用しよう/保存先の切替.html</link>
 	</item>
 
-<!-- �_���L�[�R�}���h -->
+	<!-- 便利な機能 -->
 	<item>
-		<category>�_���L�[�R�}���h/�S��</category>
-		<link>�_���L�[�R�}���h/�S��.htm</link>
+		<category>便利な機能/文字列の検索/図書一覧の検索</category>
+		<link>便利な/図書一覧の検索.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/���j���[�I��</category>
-		<link>�_���L�[�R�}���h/���j���[�I��.htm</link>
+		<category>便利な機能/文字列の検索/図書本文の検索</category>
+		<link>便利な/図書本文の検索.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/�ꗗ�̑���</category>
-		<link>�_���L�[�R�}���h/�ꗗ�̑���.htm</link>
+		<category>便利な機能/しおり/しおりを付ける</category>
+		<link>便利な/しおりを付ける.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/�{���̎Q��</category>
-		<link>�_���L�[�R�}���h/�{���̎Q��.htm</link>
+		<category>便利な機能/しおり/しおりの位置へ移動</category>
+		<link>便利な/しおりの位置へ移動.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/���f�B�A �Đ����̑���</category>
-		<link>�_���L�[�R�}���h/���f�B�A�Đ����̑���.htm</link>
+		<category>便利な機能/しおり/しおりの編集</category>
+		<link>便利な/しおりの編集.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/�����f�C�W�[ �Đ����̑���</category>
-		<link>�_���L�[�R�}���h/�����f�C�W�[�Đ����̑���.htm</link>
+		<category>便利な機能/図書を送る/携帯プレイヤーに保存</category>
+		<link>便利な/携帯プレイヤーに保存.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/�e�L�X�g�f�C�W�[ �Đ����̑���</category>
-		<link>�_���L�[�R�}���h/�e�L�X�g�f�C�W�[�Đ����̑���.htm</link>
+		<category>便利な機能/図書を送る/クラウドストレージに保存</category>
+		<link>便利な/オンラインストレージに保存.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/���̑� �S���ǂݒ��̑���</category>
-		<link>�_���L�[�R�}���h/���̑��S���ǂݒ��̑���.htm</link>
+		<category>便利な機能/図書を送る/デイジーをＣＤドライブへ送る</category>
+		<link>便利な/デイジーをＣＤドライブへ送る.html</link>
 	</item>
 	<item>
-		<category>�_���L�[�R�}���h/�T�O�I�����_���R�}���h</category>
-		<link>�_���L�[�R�}���h/�T�O�I�����_���R�}���h.htm</link>
+		<category>便利な機能/図書を送る/デイジーをリムーバブルドライブへ送る</category>
+		<link>便利な/デイジーをリムーバブルドライブへ送る.html</link>
+	</item>
+	<item>
+		<category>便利な機能/デイジー録音</category>
+		<link>便利な/デイジー録音.html</link>
+	</item>
+	<item>
+		<category>便利な機能/点字ファイルを点字エディタで開く</category>
+		<link>便利な/点字ファイルを点字エディタで開く.html</link>
+	</item>
+	<item>
+		<category>便利な機能/圧縮フォルダの利用</category>
+		<link>便利な/圧縮フォルダの利用.html</link>
+	</item>
+	<item>
+		<category>便利な機能/テンキー操作</category>
+		<link>便利な/テンキー操作.html</link>
+	</item>
+	<item>
+		<category>便利な機能/休憩タイマー</category>
+		<link>便利な/休憩タイマー.html</link>
+	</item>
+	<item>
+		<category>便利な機能/読み辞書を編集する</category>
+		<link>便利な/読み辞書を編集する.html</link>
+	</item>
+	<item>
+		<category>便利な機能/MP3タグを編集する</category>
+		<link>便利な/MP3タグを編集する.html</link>
 	</item>
 
-<!-- �t�^ -->
+	<!-- 図書やファイルの種類 -->
 	<item>
-		<category>�⑫�P ���}�C�u�b�N�Ƃ̈Ⴂ</category>
-		<link>�t�^/���}�C�u�b�N�Ƃ̈Ⴂ.htm</link>
+		<category>図書やファイルの種類/デイジー図書</category>
+		<link>図書やファイルの種類/デイジー図書.html</link>
 	</item>
 	<item>
-		<category>�⑫�Q �X�V����</category>
-		<link>�t�^/�X�V����.htm</link>
+		<category>図書やファイルの種類/オーディオブック</category>
+		<link>図書やファイルの種類/オーディオブック.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/点字図書</category>
+		<link>図書やファイルの種類/点字図書.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/PDFファイル</category>
+		<link>図書やファイルの種類/PDFファイル.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/EPUBファイル</category>
+		<link>図書やファイルの種類/EPUBファイル.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/Microsoft Officeファイル</category>
+		<link>図書やファイルの種類/Microsoft Officeファイル.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/点字ファイル</category>
+		<link>図書やファイルの種類/点字ファイル.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/.BOOKファイル</category>
+		<link>図書やファイルの種類/．BOOKファイル.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/ZIPファイル</category>
+		<link>図書やファイルの種類/ZIPファイル.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/MyWord 文書ファイル</category>
+		<link>図書やファイルの種類/MyWord 文書ファイル.html</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/その他のファイル</category>
+		<link>図書やファイルの種類/その他のファイル.html</link>
+	</item>
+
+	<!-- 環境設定 -->
+	<item>
+		<category>環境設定/画面表示の設定/画面の拡大</category>
+		<link>環境設定/画面の拡大.html</link>
+	</item>
+	<item>
+		<category>環境設定/画面表示の設定/表示オプションの設定</category>
+		<link>環境設定/表示オプションの設定.html</link>
+	</item>
+	<item>
+		<category>環境設定/画面表示の設定/その他の表示設定</category>
+		<link>環境設定/その他の表示設定.html</link>
+	</item>
+	<item>
+		<category>環境設定/図書オプションの設定</category>
+		<link>環境設定/図書オプションの設定.html</link>
+	</item>
+	<item>
+		<category>環境設定/環境のクリーンアップ</category>
+		<link>環境設定/環境のクリーンアップ.html</link>
+	</item>
+	<item>
+		<category>環境設定/マイブックを最新版に更新する</category>
+		<link>環境設定/マイブックを最新版に更新する.html</link>
+	</item>
+
+	<!-- フルキーコマンド -->
+	<item>
+		<category>フルキーコマンド/全般</category>
+		<link>フルキーコマンド/全般.html</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/メニュー選択</category>
+		<link>フルキーコマンド/メニュー選択.html</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/一覧の操作</category>
+		<link>フルキーコマンド/一覧の操作.html</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/本文の参照</category>
+		<link>フルキーコマンド/本文の参照.html</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/メディア 再生中の操作</category>
+		<link>フルキーコマンド/メディア再生中の操作.html</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/音声デイジー 再生中の操作</category>
+		<link>フルキーコマンド/音声デイジー再生中の操作.html</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/テキストデイジー 再生中の操作</category>
+		<link>フルキーコマンド/テキストデイジー再生中の操作.html</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/その他 全文読み中の操作</category>
+		<link>フルキーコマンド/その他全文読み中の操作.html</link>
+	</item>
+
+	<!-- 点字キーコマンド -->
+	<item>
+		<category>点字キーコマンド/全般</category>
+		<link>点字キーコマンド/全般.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/メニュー選択</category>
+		<link>点字キーコマンド/メニュー選択.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/一覧の操作</category>
+		<link>点字キーコマンド/一覧の操作.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/本文の参照</category>
+		<link>点字キーコマンド/本文の参照.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/メディア 再生中の操作</category>
+		<link>点字キーコマンド/メディア再生中の操作.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/音声デイジー 再生中の操作</category>
+		<link>点字キーコマンド/音声デイジー再生中の操作.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/テキストデイジー 再生中の操作</category>
+		<link>点字キーコマンド/テキストデイジー再生中の操作.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/その他 全文読み中の操作</category>
+		<link>点字キーコマンド/その他全文読み中の操作.html</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/５０オン順点字コマンド</category>
+		<link>点字キーコマンド/５０オン順点字コマンド.html</link>
+	</item>
+
+	<!-- 付録 -->
+	<item>
+		<category>補足１ 旧マイブックとの違い</category>
+		<link>付録/旧マイブックとの違い.html</link>
+	</item>
+	<item>
+		<category>補足２ 更新履歴</category>
+		<link>付録/更新履歴.html</link>
 	</item>
 
 </list-index>
