@@ -1,267 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html>
 <head>
-<meta http-equiv='Content-Language' content='ja'>
-<meta http-equiv='Content-Type' content='text/html; charset=shift_jis'>
-<title>����t�H�[���t�@�C���̍쐬</title>
+<meta http-equiv="Content-Language" content="ja">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>印刷フォームファイルの作成</title>
 </head>
 <body>
 <pre>
-����t�H�[�����C��������A�V��������t�H�[����ǉ�����ꍇ�́A�ȉ���2�i�K�̎菇�ŐV��������t�H�[���f�[�^�x�[�X�t�@�C�����쐬���܂��B
+印刷フォームを修正したり、新しい印刷フォームを追加する場合は、以下の2段階の手順で新しい印刷フォームデータベースファイルを作成します。
 
-�P.����t�H�[���̏ڍׂ��L�q�����g���q:pft�̈���t�H�[���e�L�X�g�t�@�C�����쐬
-�Q.����t�H�[���e�L�X�g�t�@�C�����R���p�C�����āA����t�H�[���f�[�^�x�[�X�t�@�C��  PrintForm7.mdb���쐬
+１.印刷フォームの詳細を記述した拡張子:pftの印刷フォームテキストファイルを作成
+２.印刷フォームテキストファイルをコンパイルして、印刷フォームデータベースファイル  PrintForm7.mdbを作成
 
-�ȉ��ɂ��̎菇��������܂��B
-
-
-�P.����t�H�[���e�L�X�g�̍쐬
-
-����t�H�[���e�L�X�g�Ƃ́A�}�C�A�N�Z�X�̈���t�H�[���̐ݒ�E�ǉ���ړI�Ƃ����e�L�X�g�t�@�C���ł��B
-�G�f�B�^���ō쐬���܂��B����t�H�[���e�L�X�g�̏ڍׂ͈ȉ��̒ʂ�ł��B
-
-�@(1)�t�@�C���d�l
-�g���q:pft (Print Form Text)
-�`��:�e�L�X�g�t�@�C��
-����:C:\Users\���[�U�[��\AppData\Roaming\KSD\MyAccess\pft
-
-�@(2)����t�H�[���e�L�X�g�̋L�q���@
-����t�H�[���e�L�X�g�́A�u�p�����v�Ɓu�̈���v��2�̃O���[�v����\������܂��B
-
-�@�@(2-1)�p�����̋L�q
-�p���Ɋւ�������L�q���܂��B
-�L�q���ڂ͉p�����p�������g�p���܂��B
-�ݒ���e��ini�t�@�C���̂悤��=(�C�R�[��)���g���āA�w�肵�܂��B
-��:DispIndex=1
-�������ݒ肷��ꍇ��"(�_�u���R�[�e�[�V����)�ň݂͂܂��B
-��:FormName="�����͂���"
-�啶���Ə���������ʂ��Đ������L�q���Ă��������B
-��:
-DispIndex=15 �������F������܂��B
-dispindex=15 �G���[�ƂȂ�܂��B
-
-�@�@(2-1-1)�p���t�H�[���̃o�[�W����
-����:FormVersion
-����:�p���t�H�[���e�L�X�g�̃o�[�W������ݒ肵�܂��B
-�����̊g���̂��߂ɗ\�񂳂ꂽ���ڂł��B�ʏ�͎g�p���܂���B
-���̐ݒ���ȗ�����ƃo�[�W����1.00�Ƃ��Ĉ����܂��B
-��:FormVersion=1.00
-
-�@�@(2-1-2)���X�g�\����
-����:DispIndex
-����:�}�C�A�N�Z�X�̈���t�H�[�����X�g�̕��я���ݒ肵�܂��B
-���X�g�͐ݒ�l�̏����Ń\�[�g����܂��B
-��:DispIndex=15
-
-�@�@(2-1-3)�p����
-����:FormName
-����:�p���̖��O��ݒ肵�܂��B
-���̍��ڂ͏ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:FormName="�����͂���"
-
-�@�@(2-1-4)�p�����E�����K�C�h
-����:FormGuide
-����:�}�C�A�N�Z�X�E����t�H�[�����X�g�̑I�����̃K�C�h������ݒ肵�܂��B
-�p���̖��O�𐳂��������K�C�h���Ȃ��ꍇ��A�\���Ƃ͕ʂ̓ǂ܂������������ꍇ�Ɏg���܂��B
-��:FormGuide="�J���Z�C�n�K�L"
-
-�@�@(2-1-5)�p���̍���
-����:FormHeight
-����:�p���̍�����0.01mm�P�ʂŐݒ肵�܂��B
-���̍��ڂ͏ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:FormHeight=148.00
-
-�@�@(2-1-6)�p���̕�
-����:FormWidth
-����:�p���̕���0.01mm�P�ʂŐݒ肵�܂��B
-���̍��ڂ͏ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:FormWidth=100.00
-
-�@�@(2-1-7)�����^�C�v
-����:FormType
-����:�����^�C�v��ݒ肵�܂��B
-�ݒ�l:
-1 �P�[(�K��l�j
-2 ���[
-���̍��ڂ͏����̊g���p�ł��B
-�ݒ�l�͖���(�P�[�Œ�)�ƂȂ�܂��B
-
-�@�@(2-1-8)�p���̏�����
-����:FormFigure
-����:�p���̏�����(�c�E��)�̃O���[�v�𖾊m�ɂ������Ƃ��ɐݒ肵�܂��B
-�ݒ�l:
-0 �Ȃ�(�K��l)
-1 �c����
-2 ������
-��:FormFigure=1
-
-�@�@(2-1-9)�p���O���[�v
-����:GroupID
-����:�p���O���[�v��ݒ肵�܂��B���̍��ڂ��ȗ������ꍇ�́A99 ���̑��̗p���O���[�v�Ƃ��Ĉ����܂��B
-�ݒ�l:
-10 �͂����E������ 
-20 �͂����E�� 
-30 �����E������ 
-40 �����E�� 
-45 �`�[
-50 �^�b�N�� 
-60 �^�b�N�� ���o�l�t�� 
-99 ���̑� 
-��:GroupID=10
-
-�@�@(2-1-10)�p���C���[�W(����t�H�[���I��p)
-����:FormBitMap
-����:����t�H�[���I�����ɕ\�������p���C���[�W���t�@�C�����Őݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�����̗p���C���[�W���\������܂��B
-��:FormBitMap="�����͂���_S.BMP"
-
-�@�@(2-1-11)�p���C���[�W(�v���r���[��ʗp)
-����:FormBitMapPrev
-����:�v���r���[��ʗp�̗p���C���[�W���t�@�C�����Őݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�p���v���r���[�̔w�i�������ŕ\������܂��B 
-��:FormBitMapPrev="�����͂���.BMP"
-
-�@�@(2-1-12)�⑫
-����:FormSupple
-����:�p���̕⑫������ݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�⑫�Ȃ��Ƃ��Ĉ����܂��B
-��:FormSupple="�N��=���l4"
-
-�@�@(2-1-13)�������R�[�h��`
-����:MultiForm
-����:�ꗗ��^�b�N�p���̂悤�ɁA�ЂƂ̗p�����ɕ����̃��R�[�h������������Ƃ��ɐݒ肵�܂��B
-�ݒ�l:
-True �������R�[�h�@
-False �P�ꃌ�R�[�h
-���̍��ڂ��ȗ������ꍇ�́A�P�ꃌ�R�[�h�Ƃ��Ĉ����܂��B
-��:MultiForm=True
-
-�@�@(2-1-14)�������R�[�h��`/�i��
-����:Paragraphs
-����:�ꗗ��^�b�N�p���̒i����ݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-���̍��ڂ��ȗ������ꍇ�́A�i��=1�Ƃ��Ĉ����܂��B
-��:Paragraphs=3
-
-�@�@(2-1-15)�������R�[�h��`/��
-����:Columns
-����:�ꗗ��^�b�N�p���̗񐔂�ݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-���̍��ڂ��ȗ������ꍇ�́A��=1�Ƃ��Ĉ����܂��B
-��:Columns=3
-
-�@�@(2-1-16)�������R�[�h��`/�i�s�b�`
-����:ParagraphPitch
-����:�i�ƒi�̊Ԋu��0.01mm�P�ʂŐݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-���̍��ڂ��ȗ������ꍇ�́A�Ԋu=0.00mm�Ƃ��Ĉ����܂��B
-��:ParagraphPitch=1.25
-
-�@�@(2-1-17)�������R�[�h��`/��s�b�`
-����:ColumnPitch
-����:��Ɨ�̊Ԋu��0.01mm�P�ʂŐݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-���̍��ڂ��ȗ������ꍇ�́A�Ԋu=0.00mm�Ƃ��Ĉ����܂��B
-��:ColumnPitch=2.34
-
-�@�@(2-1-18)�������R�[�h��`/�T�u�t�H�[���̍��ʒu
-����:SubLeft
-����:1�i1��̃T�u�t�H�[������Ƃ������ʒu��0.01mm�P�ʂŐݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-MultiForm=True�̂Ƃ��ɂ́A���̍��ڂ��ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:SubLeft=20.26
-
-�@�@(2-1-19)�������R�[�h��`/�T�u�t�H�[���̏�ʒu
-����:SubTop
-����:1�i1��̃T�u�t�H�[������Ƃ�����ʒu��0.01mm�P�ʂŐݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-MultiForm=True�̂Ƃ��ɂ́A���̍��ڂ��ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:SubTop=20.26
-
-�@�@(2-1-20)�������R�[�h��`/�T�u�t�H�[���̍���
-����:SubHeight
-����:�T�u�t�H�[���̍���(�^�b�N�V�[��1���̍���)��0.01mm�P�ʂŐݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-MultiForm=True�̂Ƃ��ɂ́A���̍��ڂ��ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:SubHeight=20.26
-
-�@�@(2-1-21)�������R�[�h��`/�T�u�t�H�[���̕�
-����:SubWidth
-����:�T�u�t�H�[���̕�(�^�b�N�V�[��1���̕�)��0.01mm�P�ʂŐݒ肵�܂��BMultiForm=True�̂Ƃ��ɗL���ł��B
-MultiForm=True�̂Ƃ��ɂ́A���̍��ڂ��ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:SubWidth=20.26
+以下にその手順を説明します。
 
 
-�@�@(2-2)�̈���̋L�q
-�̈���͕����L�q�ł��܂��B
-�ЂƂ̗̈���̐擪�s�ɂ�Begin�����A�ŏI�s�ɂ�End����K���L�q���܂��B
+１.印刷フォームテキストの作成
 
-�@�@(2-2-1)�̈���̋L�q�J�n�̐錾
-����:Begin
-����:�̈�������̍s����L�q���邱�Ƃ�錾���܂��BEnd�̋L�q�܂ł��A�ЂƂ̗̈���Ƃ��Ĉ����܂��BBegin��End�͕K��1��1�őΉ����Ă��Ȃ���΂Ȃ�܂���B
-��:Begin
+印刷フォームテキストとは、マイアクセスの印刷フォームの設定・追加を目的としたテキストファイルです。
+エディタ等で作成します。印刷フォームテキストの詳細は以下の通りです。
 
-�@�@(2-2-2)�̈���̋L�q�I���̐錾
-����:End
-����:�̈���̋L�q���I��邱�Ƃ�錾���܂��BBegin���L�q������A�K��End���ŋL�q�̏I����錾���܂��B
-�錾�I����́A�V���ȗ̈��Begin�ŋL�q�\�ƂȂ�܂��B
-��:End
+　(1)ファイル仕様
+拡張子:pft (Print Form Text)
+形式:テキストファイル
+所在:C:\Users\ユーザー名\AppData\Roaming\KSD\MyAccess\pft
 
-�@�@(2-2-3)�̈�ԍ�
-����:FieldIndex
-����:�̈�ԍ���ݒ肵�܂��B
-�ȗ�����Ɨ̈�̋L�q�̏��Ԃɔԍ������蓖�Ă��܂��B
-�̈�ԍ��́A������̕�����摜�̏d�Ȃ�ɉe�����܂��B
-�Ⴆ�΁A�摜�̏�ɕ������d�ˍ��킹�ď��������ꍇ�́A�����̗̈�ԍ����摜�̗̈�ԍ������ɂȂ�悤�ɔz�u���܂��B
-��:FieldIndex=15
+　(2)印刷フォームテキストの記述方法
+印刷フォームテキストは、「用紙情報」と「領域情報」の2つのグループから構成されます。
 
-�@�@(2-2-4)�̈於
-����:Label
-����:�̈於��ݒ肵�܂��B
-�@�\�͓��ɂ���܂���B���߂Ȃǈ���t�H�[���쐬�҂̕⏕�Ƃ��ė��p���Ă��������B
-�Ȃ��A�A���t�B�[���h�ɖ₢���킹�^��ݒ肵���Ƃ��́A����̖₢���킹�ŗ̈於���ǂݏグ���܂��B
-��:Label="�d�b�ԍ�"
+　　(2-1)用紙情報の記述
+用紙に関する情報を記述します。
+記述項目は英数半角文字を使用します。
+設定内容はiniファイルのように=(イコール)を使って、指定します。
+例:DispIndex=1
+文字列を設定する場合は"(ダブルコーテーション)で囲みます。
+例:FormName="官製はがき"
+大文字と小文字を区別して正しく記述してください。
+例:
+DispIndex=15 正しく認識されます。
+dispindex=15 エラーとなります。
 
-�@�@(2-2-5)�̈���
-����:Type
-����:�̈�̎�ʂ�ݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A00:�W���̗̈�Ƃ��Ĉ����܂��B
-�ݒ�l:
-00 �W��(�g���̃e�L�X�g����肵�Ȃ�) 
-10 �������C�A�E�g�@�����Z�� 
-11 �������C�A�E�g�@�������� 
-12 �������C�A�E�g�@���o�Z�� 
-13 �������C�A�E�g�@���o���� 
-14 �������C�A�E�g�@���o�ԍ� 
-20 ����^�@�X�֔ԍ��g������@�ʏ�̈�3��+Ex�̈�4�����g�p 
-21 ����^�@�X�֔ԍ��}�[�N�t���X�֔ԍ� 
-���������C�A�E�g�����^�̏ڍׂȐ����͂���܂���B�}�C�A�N�Z�X�Y�t�̈���t�H�[���e�L�X�g���T���v���Ƃ��ĎQ�Ƃ��Ă��������B
-��:Type=11
+　　(2-1-1)用紙フォームのバージョン
+書式:FormVersion
+説明:用紙フォームテキストのバージョンを設定します。
+将来の拡張のために予約された項目です。通常は使用しません。
+この設定を省略するとバージョン1.00として扱われます。
+例:FormVersion=1.00
 
-�@�@(2-2-6)���ʒu
-����:Left
-����:�̈�̍��ʒu��0.01mm�P�ʂŐݒ肵�܂��B
-���ʒu�Ƃ͗p���̍��[���N�_(0mm)�Ƃ������Έʒu�ł��B
-���̍��ڂ͏ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:Left=13.50
+　　(2-1-2)リスト表示順
+書式:DispIndex
+説明:マイアクセスの印刷フォームリストの並び順を設定します。
+リストは設定値の昇順でソートされます。
+例:DispIndex=15
 
-�@�@(2-2-7)��ʒu
-����:Top
-����:�̈�̏�ʒu��0.01mm�P�ʂŐݒ肵�܂��B
-��ʒu�Ƃ͗p���̏�[���N�_(0mm)�Ƃ������Έʒu�ł��B
-���̍��ڂ͏ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:Top=36.85
+　　(2-1-3)用紙名
+書式:FormName
+説明:用紙の名前を設定します。
+この項目は省略することができません。必ず記述してください。
+例:FormName="官製はがき"
 
-�@�@(2-2-8)����
-����:Height
-����:�̈�̍�����0.01mm�P�ʂŐݒ肵�܂��B
-�̈���ň���������c�̒�����\���܂��B
-���̍��ڂ͏ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:Height=12.35
+　　(2-1-4)用紙名・音声ガイド
+書式:FormGuide
+説明:マイアクセス・印刷フォームリストの選択時のガイド音声を設定します。
+用紙の名前を正しく音声ガイドしない場合や、表示とは別の読ませ方をしたい場合に使います。
+例:FormGuide="カンセイハガキ"
 
-�@�@(2-2-9)��
-����:Width
-����:�̈�̕���0.01mm�P�ʂŐݒ肵�܂��B
-�̈���ň�����������̒�����\���܂��B
-���̍��ڂ͏ȗ����邱�Ƃ��ł��܂���B�K���L�q���Ă��������B
-��:Width=49.21
+　　(2-1-5)用紙の高さ
+書式:FormHeight
+説明:用紙の高さを0.01mm単位で設定します。
+この項目は省略することができません。必ず記述してください。
+例:FormHeight=148.00
 
-���⑫�@�̈�̈ʒu�ݒ�ɂ���
-��Ƃ��āA�͂����̍���ɁA������15�~���A�ォ��12�~���̗]���������ēd�b�ԍ�������������ꍇ�̐ݒ���@��������܂��B
-�d�b�ԍ��̗̈�Ƃ��Ĉ���\�Ȕ͈͂��c10�~���E��50�~���Ɛ������܂��B
-�̈�̋L�q��
+　　(2-1-6)用紙の幅
+書式:FormWidth
+説明:用紙の幅を0.01mm単位で設定します。
+この項目は省略することができません。必ず記述してください。
+例:FormWidth=100.00
+
+　　(2-1-7)給紙タイプ
+書式:FormType
+説明:給紙タイプを設定します。
+設定値:
+1 単票(規定値）
+2 帳票
+この項目は将来の拡張用です。
+設定値は無効(単票固定)となります。
+
+　　(2-1-8)用紙の書き方
+書式:FormFigure
+説明:用紙の書き方(縦・横)のグループを明確にしたいときに設定します。
+設定値:
+0 なし(規定値)
+1 縦書き
+2 横書き
+例:FormFigure=1
+
+　　(2-1-9)用紙グループ
+書式:GroupID
+説明:用紙グループを設定します。この項目を省略した場合は、99 その他の用紙グループとして扱われます。
+設定値:
+10 はがき・おもて 
+20 はがき・裏 
+30 封筒・おもて 
+40 封筒・裏 
+45 伝票
+50 タック紙 
+60 タック紙 差出人付き 
+99 その他 
+例:GroupID=10
+
+　　(2-1-10)用紙イメージ(印刷フォーム選択用)
+書式:FormBitMap
+説明:印刷フォーム選択時に表示される用紙イメージをファイル名で設定します。
+この項目を省略した場合は、白紙の用紙イメージが表示されます。
+例:FormBitMap="官製はがき_S.BMP"
+
+　　(2-1-11)用紙イメージ(プレビュー画面用)
+書式:FormBitMapPrev
+説明:プレビュー画面用の用紙イメージをファイル名で設定します。
+この項目を省略した場合は、用紙プレビューの背景が白紙で表示されます。 
+例:FormBitMapPrev="官製はがき.BMP"
+
+　　(2-1-12)補足
+書式:FormSupple
+説明:用紙の補足説明を設定します。
+この項目を省略した場合は、補足なしとして扱われます。
+例:FormSupple="年齢=備考4"
+
+　　(2-1-13)複数レコード定義
+書式:MultiForm
+説明:一覧やタック用紙のように、ひとつの用紙内に複数のレコードを印刷したいときに設定します。
+設定値:
+True 複数レコード　
+False 単一レコード
+この項目を省略した場合は、単一レコードとして扱われます。
+例:MultiForm=True
+
+　　(2-1-14)複数レコード定義/段数
+書式:Paragraphs
+説明:一覧やタック用紙の段数を設定します。MultiForm=Trueのときに有効です。
+この項目を省略した場合は、段数=1として扱われます。
+例:Paragraphs=3
+
+　　(2-1-15)複数レコード定義/列数
+書式:Columns
+説明:一覧やタック用紙の列数を設定します。MultiForm=Trueのときに有効です。
+この項目を省略した場合は、列数=1として扱われます。
+例:Columns=3
+
+　　(2-1-16)複数レコード定義/段ピッチ
+書式:ParagraphPitch
+説明:段と段の間隔を0.01mm単位で設定します。MultiForm=Trueのときに有効です。
+この項目を省略した場合は、間隔=0.00mmとして扱われます。
+例:ParagraphPitch=1.25
+
+　　(2-1-17)複数レコード定義/列ピッチ
+書式:ColumnPitch
+説明:列と列の間隔を0.01mm単位で設定します。MultiForm=Trueのときに有効です。
+この項目を省略した場合は、間隔=0.00mmとして扱われます。
+例:ColumnPitch=2.34
+
+　　(2-1-18)複数レコード定義/サブフォームの左位置
+書式:SubLeft
+説明:1段1列のサブフォームを基準とした左位置を0.01mm単位で設定します。MultiForm=Trueのときに有効です。
+MultiForm=Trueのときには、この項目を省略することができません。必ず記述してください。
+例:SubLeft=20.26
+
+　　(2-1-19)複数レコード定義/サブフォームの上位置
+書式:SubTop
+説明:1段1列のサブフォームを基準とした上位置を0.01mm単位で設定します。MultiForm=Trueのときに有効です。
+MultiForm=Trueのときには、この項目を省略することができません。必ず記述してください。
+例:SubTop=20.26
+
+　　(2-1-20)複数レコード定義/サブフォームの高さ
+書式:SubHeight
+説明:サブフォームの高さ(タックシール1枚の高さ)を0.01mm単位で設定します。MultiForm=Trueのときに有効です。
+MultiForm=Trueのときには、この項目を省略することができません。必ず記述してください。
+例:SubHeight=20.26
+
+　　(2-1-21)複数レコード定義/サブフォームの幅
+書式:SubWidth
+説明:サブフォームの幅(タックシール1枚の幅)を0.01mm単位で設定します。MultiForm=Trueのときに有効です。
+MultiForm=Trueのときには、この項目を省略することができません。必ず記述してください。
+例:SubWidth=20.26
+
+
+　　(2-2)領域情報の記述
+領域情報は複数記述できます。
+ひとつの領域情報の先頭行にはBegin文を、最終行にはEnd文を必ず記述します。
+
+　　(2-2-1)領域情報の記述開始の宣言
+書式:Begin
+説明:領域情報を次の行から記述することを宣言します。Endの記述までが、ひとつの領域情報として扱われます。BeginとEndは必ず1対1で対応していなければなりません。
+例:Begin
+
+　　(2-2-2)領域情報の記述終了の宣言
+書式:End
+説明:領域情報の記述を終わることを宣言します。Beginを記述したら、必ずEnd文で記述の終了を宣言します。
+宣言終了後は、新たな領域をBeginで記述可能となります。
+例:End
+
+　　(2-2-3)領域番号
+書式:FieldIndex
+説明:領域番号を設定します。
+省略すると領域の記述の順番に番号が割り当てられます。
+領域番号は、印刷時の文字や画像の重なりに影響します。
+例えば、画像の上に文字を重ね合わせて書きたい場合は、文字の領域番号を画像の領域番号より後ろになるように配置します。
+例:FieldIndex=15
+
+　　(2-2-4)領域名
+書式:Label
+説明:領域名を設定します。
+機能は特にありません。注釈など印刷フォーム作成者の補助として利用してください。
+なお、連結フィールドに問い合わせ型を設定したときは、印刷の問い合わせで領域名が読み上げられます。
+例:Label="電話番号"
+
+　　(2-2-5)領域種別
+書式:Type
+説明:領域の種別を設定します。
+この項目を省略した場合は、00:標準の領域として扱われます。
+設定値:
+00 標準(枠内のテキストを特定しない) 
+10 自動レイアウト　宛名住所 
+11 自動レイアウト　宛名氏名 
+12 自動レイアウト　差出住所 
+13 自動レイアウト　差出氏名 
+14 自動レイアウト　差出番号 
+20 特殊型　郵便番号枠内印刷　通常領域3桁+Ex領域4桁を使用 
+21 特殊型　郵便番号マーク付き郵便番号 
+※自動レイアウトや特殊型の詳細な説明はありません。マイアクセス添付の印刷フォームテキストをサンプルとして参照してください。
+例:Type=11
+
+　　(2-2-6)左位置
+書式:Left
+説明:領域の左位置を0.01mm単位で設定します。
+左位置とは用紙の左端を起点(0mm)とした相対位置です。
+この項目は省略することができません。必ず記述してください。
+例:Left=13.50
+
+　　(2-2-7)上位置
+書式:Top
+説明:領域の上位置を0.01mm単位で設定します。
+上位置とは用紙の上端を起点(0mm)とした相対位置です。
+この項目は省略することができません。必ず記述してください。
+例:Top=36.85
+
+　　(2-2-8)高さ
+書式:Height
+説明:領域の高さを0.01mm単位で設定します。
+領域内で印刷したい縦の長さを表します。
+この項目は省略することができません。必ず記述してください。
+例:Height=12.35
+
+　　(2-2-9)幅
+書式:Width
+説明:領域の幅を0.01mm単位で設定します。
+領域内で印刷したい横の長さを表します。
+この項目は省略することができません。必ず記述してください。
+例:Width=49.21
+
+※補足　領域の位置設定について
+例として、はがきの左上に、左から15ミリ、上から12ミリの余白をあけて電話番号を印刷したい場合の設定方法を説明します。
+電話番号の領域として印刷可能な範囲を縦10ミリ・横50ミリと制限します。
+領域の記述は
 Begin
  Left=15.00
  Top=12.00
@@ -269,277 +270,277 @@ Begin
  Width=50
  DataField=t1
 End
-�ƂȂ�܂��B
-�����╝�������ɓ���ł��Ȃ��ꍇ�́A�]�T���������K���Ȓl��ݒ肵�Ă������x������܂���B
+となります。
+高さや幅がすぐに特定できない場合は、余裕をもった適当な値を設定しても差し支えありません。
 
-�@�@(2-2-10)�T�u�̈�̐ݒ�
-����:SubTable
-����:�T�u�t�H�[�����̓���̈�Ƃ��Đݒ肵�܂��B
-MultiForm=True�̂Ƃ��ɗL���ŁA�^�b�N�p���ꖇ�̕��ƍ�������Ƃ��ė̈���L�q�ł���悤�ɂȂ�܂��B
-���̍��ڂ��ȗ������ꍇ�́AFalse-�ʏ�̗̈�Ƃ��Ĉ����܂��B
-�ݒ�l:
-False �ʏ�̗̈�BTop��Left�̐ݒ�́A�p���S�̂̍��ォ��̑��ΓI�Ȉʒu��\���܂��B
-True �T�u�̈�BTop��Left�̐ݒ�́A�T�u�t�H�[��(�^�b�N�V�[��1��)�P�ʂ̍�����̑��ΓI�Ȉʒu��\���܂��B
-��:SubTable=True
+　　(2-2-10)サブ領域の設定
+書式:SubTable
+説明:サブフォーム内の特殊領域として設定します。
+MultiForm=Trueのときに有効で、タック用紙一枚の幅と高さを基準として領域を記述できるようになります。
+この項目を省略した場合は、False-通常の領域として扱われます。
+設定値:
+False 通常の領域。TopやLeftの設定は、用紙全体の左上からの相対的な位置を表します。
+True サブ領域。TopやLeftの設定は、サブフォーム(タックシール1枚)単位の左からの相対的な位置を表します。
+例:SubTable=True
 
-�@�@(2-2-11)�X�֔ԍ��g�^/���ʒu
-����:ExLeft
-����:�X�֔ԍ��g�̈�(Type=20)�̂Ƃ��ɗL���ł��B
-�X�֔ԍ��g�̖���4���̗̈��1��`�Ƃ��āA���ʒu��0.01mm�P�ʂŐݒ肵�܂��B 
-�X�֔ԍ��g�̈�(Type=20)�ɐݒ肵���Ƃ��́A���̍��ڂ�K���L�q���Ă��������B
-��:ExLeft=13.50
+　　(2-2-11)郵便番号枠型/左位置
+書式:ExLeft
+説明:郵便番号枠領域(Type=20)のときに有効です。
+郵便番号枠の末尾4桁の領域を1矩形として、左位置を0.01mm単位で設定します。 
+郵便番号枠領域(Type=20)に設定したときは、この項目を必ず記述してください。
+例:ExLeft=13.50
 
-�@�@(2-2-12)�X�֔ԍ��g�^/��ʒu
-����:ExTop
-����:�X�֔ԍ��g�̈�(Type=20)�̂Ƃ��ɗL���ł��B
-�X�֔ԍ��g�̖���4���̗̈��1��`�Ƃ��āA��ʒu��0.01mm�P�ʂŐݒ肵�܂��B
-�X�֔ԍ��g�̈�(Type=20)�ɐݒ肵���Ƃ��́A���̍��ڂ�K���L�q���Ă��������B
-��:ExTop=13.50
+　　(2-2-12)郵便番号枠型/上位置
+書式:ExTop
+説明:郵便番号枠領域(Type=20)のときに有効です。
+郵便番号枠の末尾4桁の領域を1矩形として、上位置を0.01mm単位で設定します。
+郵便番号枠領域(Type=20)に設定したときは、この項目を必ず記述してください。
+例:ExTop=13.50
 
-�@�@(2-2-13)�X�֔ԍ��g�^/����
-����:ExHeight
-����:�X�֔ԍ��g�̈�(Type=20)�̂Ƃ��ɗL���ł��B
-�X�֔ԍ��g�̖���4���̗̈��1��`�Ƃ���������0.01mm�P�ʂŐݒ肵�܂��B
-�X�֔ԍ��g�̈�(Type=20)�ɐݒ肵���Ƃ��́A���̍��ڂ�K���L�q���Ă��������B
-��:ExHeight=13.50
+　　(2-2-13)郵便番号枠型/高さ
+書式:ExHeight
+説明:郵便番号枠領域(Type=20)のときに有効です。
+郵便番号枠の末尾4桁の領域を1矩形とした高さを0.01mm単位で設定します。
+郵便番号枠領域(Type=20)に設定したときは、この項目を必ず記述してください。
+例:ExHeight=13.50
 
-�@�@(2-2-14)�X�֔ԍ��g�^/��
-����:ExWidth
-����:�X�֔ԍ��g�̈�(Type=20)�̂Ƃ��ɗL���ł��B
-�X�֔ԍ��g�̖���4���̗̈��1��`�Ƃ�������0.01mm�P�ʂŐݒ肵�܂��B
-�X�֔ԍ��g�̈�(Type=20)�ɐݒ肵���Ƃ��́A���̍��ڂ�K���L�q���Ă��������B
-��:ExWidth=13.50
+　　(2-2-14)郵便番号枠型/幅
+書式:ExWidth
+説明:郵便番号枠領域(Type=20)のときに有効です。
+郵便番号枠の末尾4桁の領域を1矩形とした幅を0.01mm単位で設定します。
+郵便番号枠領域(Type=20)に設定したときは、この項目を必ず記述してください。
+例:ExWidth=13.50
 
-�@�@(2-2-15)���E����
-����:BorderWidth
-����:�̈�̋��E�̐�����ݒ肵�܂��B1�ȏ�̒l��ݒ肷��ƁA�̈����`�Ƃ������E����������܂��B�����͈���̃h�b�g�P�ʂƂȂ�܂��B
-���̍��ڂ��ȗ������ꍇ�́A0�u���E���Ȃ��v�Ƃ��Ĉ����܂��B
-��:BorderWidth=10
+　　(2-2-15)境界線幅
+書式:BorderWidth
+説明:領域の境界の線幅を設定します。1以上の値を設定すると、領域を矩形とした境界線を印刷します。線幅は印刷のドット単位となります。
+この項目を省略した場合は、0「境界線なし」として扱われます。
+例:BorderWidth=10
 
-�@�@(2-2-16)�����z�u
-����:Alignment
-����:�����̔z�u���@��ݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A0-�u�������v�Ƃ��Ĉ����܂��B
-�ݒ�l:
-0 Left ������ 
-1 Center �Z���^�����O
-2 Right �E����
-��:Alignment=1
-�܂��́@Alignment=Center 
+　　(2-2-16)文字配置
+書式:Alignment
+説明:文字の配置方法を設定します。
+この項目を省略した場合は、0-「左揃え」として扱われます。
+設定値:
+0 Left 左揃え 
+1 Center センタリング
+2 Right 右揃え
+例:Alignment=1
+または　Alignment=Center 
 
-�@�@(2-2-17)�s�z�u
-����:VAlignment
-����:�s�̔z�u���@��ݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A0�u�㑵���v�Ƃ��Ĉ����܂��B
-�ݒ�l:
-0 Top �㑵��
-1 Middle ����
-2 Bottom ������
-��:VAlignment=1
-�܂��́@VAlignment=Middle
+　　(2-2-17)行配置
+書式:VAlignment
+説明:行の配置方法を設定します。
+この項目を省略した場合は、0「上揃え」として扱われます。
+設定値:
+0 Top 上揃え
+1 Middle 中央
+2 Bottom 下揃え
+例:VAlignment=1
+または　VAlignment=Middle
 
-�@�@(2-2-18)����������k��
-����:AutoSize
-����:�̈�����當�����͂ݏo��ꍇ�ɁA�����I�ɕ������k�����܂��B
-���̍��ڂ��ȗ������ꍇ�́AFalse�u�k�����Ȃ��v�Ƃ��Ĉ����܂��B
-�ʏ�̐ݒ�u�k�����Ȃ��v�ł́A�̈��`����͂ݏo���������͈������܂���B
-�ݒ�l:
-True �����I�ɏk��
-False �k�����Ȃ�
-��:AutoSize=True
+　　(2-2-18)印刷時文字縮小
+書式:AutoSize
+説明:領域内から文字がはみ出る場合に、自動的に文字を縮小します。
+この項目を省略した場合は、False「縮小しない」として扱われます。
+通常の設定「縮小しない」では、領域矩形からはみ出した文字は印刷されません。
+設定値:
+True 自動的に縮小
+False 縮小しない
+例:AutoSize=True
 
-�@�@(2-2-19)�����s
-����:MultiLine
-����:�̈���ŕ����̍s���g�p�ł���悤�ɐݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́AFalse�u�����s���g�p���Ȃ��v�Ƃ��Ĉ����܂��B
-�ݒ�l:
-True �����s
-False �����s���g�p���Ȃ�
-��:MultiLine=True
+　　(2-2-19)複数行
+書式:MultiLine
+説明:領域内で複数の行を使用できるように設定します。
+この項目を省略した場合は、False「複数行を使用しない」として扱われます。
+設定値:
+True 複数行
+False 複数行を使用しない
+例:MultiLine=True
 
-�@�@(2-2-20)�����
-����:Enable
-����:�̈�̈�����֎~���܂��B
-����̎����ȂǂŎg�p���܂��BEnable��False�ɐݒ肵���̈�͈������܂���B
-���̍��ڂ��ȗ������ꍇ�́ATrue�u�������v�Ƃ��Ĉ����܂��B
-�ݒ�l:
-True �������
-False ������Ȃ�
-��:Enable=False
+　　(2-2-20)印刷可否
+書式:Enable
+説明:領域の印刷を禁止します。
+印刷の試験などで使用します。EnableをFalseに設定した領域は印刷されません。
+この項目を省略した場合は、True「印刷する」として扱われます。
+設定値:
+True 印刷する
+False 印刷しない
+例:Enable=False
 
-�@�@(2-2-21)�c����
-����:Vertical
-����:�̈�P�ʂ̈�����@���c�����ɐݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́AFalse�u�������v�Ƃ��Ĉ����܂��B
-�ݒ�l:
-True �c����
-False ������
-��:Vertical=True
+　　(2-2-21)縦書き
+書式:Vertical
+説明:領域単位の印刷方法を縦書きに設定します。
+この項目を省略した場合は、False「横書き」として扱われます。
+設定値:
+True 縦書き
+False 横書き
+例:Vertical=True
 
-�@�@(2-2-22)�t�H���g��
-����:FontName
-����:�̈�P�ʂ̈���t�H���g��ݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�ݒ�Ȃ�(����t�H���g�ɏ]��)�Ƃ��Ĉ����܂��B
-��:FontName="MS ����"
+　　(2-2-22)フォント名
+書式:FontName
+説明:領域単位の印刷フォントを設定します。
+この項目を省略した場合は、設定なし(印刷フォントに従う)として扱われます。
+例:FontName="MS 明朝"
 
-�@�@(2-2-23)�t�H���g�T�C�Y
-����:FontSize
-����:�̈�P�ʂ̃t�H���g�T�C�Y��ݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A12�|�C���g�Ƃ��Ĉ����܂��B
-��:FontSize=13
+　　(2-2-23)フォントサイズ
+書式:FontSize
+説明:領域単位のフォントサイズを設定します。
+この項目を省略した場合は、12ポイントとして扱われます。
+例:FontSize=13
 
-�@�@(2-2-24)�t�H���g����
-����:FontBold
-����:�̈�P�ʂ̕����𑾎��ɐݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�ʏ�(�����Ȃ�)�Ƃ��Ĉ����܂��B
-�ݒ�l:
-True ����
-False �ʏ�
-��:FontBold=True
+　　(2-2-24)フォント太字
+書式:FontBold
+説明:領域単位の文字を太字に設定します。
+この項目を省略した場合は、通常(太字なし)として扱われます。
+設定値:
+True 太字
+False 通常
+例:FontBold=True
 
-�@�@(2-2-25)�t�H���g�Α�
-����:FontItalic
-����:�̈�P�ʂ̕������Α̂ɐݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�ʏ�(�Α̂Ȃ�)�Ƃ��Ĉ����܂��B
-�ݒ�l:
-True �Α�
-False �ʏ�
-��:FontItalic=True
+　　(2-2-25)フォント斜体
+書式:FontItalic
+説明:領域単位の文字を斜体に設定します。
+この項目を省略した場合は、通常(斜体なし)として扱われます。
+設定値:
+True 斜体
+False 通常
+例:FontItalic=True
 
-�@�@(2-2-26)�t�H���g�F
-����:FontColor
-����:�̈�P�ʂ̕����F��ݒ肵�܂��B
-�ݒ�l:Windows�̐ݒ�(16�i���_�u�����[�h)�Őݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A0x00000000���Ƃ��Ĉ����܂��B
-�F�̐ݒ��:
- ���F 0x00000000
- �F 0x00FF0000
- �ԐF 0x000000FF
- ���F 0x00FF00FF
- �ΐF 0x0000FF00
- ���F 0x00FFFF00
- ���F 0x0000FFFF
- ���F 0x00FFFFFF
-��:FontColor=0x00D2FA49
+　　(2-2-26)フォント色
+書式:FontColor
+説明:領域単位の文字色を設定します。
+設定値:Windowsの設定(16進数ダブルワード)で設定します。
+この項目を省略した場合は、0x00000000黒として扱われます。
+色の設定例:
+ 黒色 0x00000000
+ 青色 0x00FF0000
+ 赤色 0x000000FF
+ 紫色 0x00FF00FF
+ 緑色 0x0000FF00
+ 水色 0x00FFFF00
+ 黄色 0x0000FFFF
+ 白色 0x00FFFFFF
+例:FontColor=0x00D2FA49
 
-�@�@(2-2-27)�t�H���g����
-����:FontUnderline
-����:�̈�P�ʂ̕����ɉ���(�A���_�[���C��)��ݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�ʏ�(�����Ȃ�)�Ƃ��Ĉ����܂��B
-�ݒ�l:
-True ����
-False �ʏ�
-��:FontUnderline=True
+　　(2-2-27)フォント下線
+書式:FontUnderline
+説明:領域単位の文字に下線(アンダーライン)を設定します。
+この項目を省略した場合は、通常(下線なし)として扱われます。
+設定値:
+True 下線
+False 通常
+例:FontUnderline=True
 
-�@�@(2-2-28)������ �s�b�`
-����:Pitch
-����:�����Ԃ̃s�b�`���h�b�g�P�ʂŐݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A������ �s�b�`=0�Ƃ��Ĉ����܂��B
-��:Pitch=3
+　　(2-2-28)文字間 ピッチ
+書式:Pitch
+説明:文字間のピッチをドット単位で設定します。
+この項目を省略した場合は、文字間 ピッチ=0として扱われます。
+例:Pitch=3
 
-�@�@(2-2-29)�s�ԃs�b�`
-����:VPitch
-����:�s�Ԃ̃s�b�`��0.01mm�P�ʂŐݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�t�H���g�T�C�Y�ɉ������s�Ԃ������I�ɐݒ肳��܂��B
-��^�̕\�ɕ���������������Ƃ��Ȃǂɕ֗��ł��B���̏ꍇ�ɂ́A�s�b�`��\�̌r�����Ɠ����ɂ��܂��B
-��:VPitch=7.21
+　　(2-2-29)行間ピッチ
+書式:VPitch
+説明:行間のピッチを0.01mm単位で設定します。
+この項目を省略した場合は、フォントサイズに応じた行間が自動的に設定されます。
+定型の表に文字を印刷したいときなどに便利です。この場合には、ピッチを表の罫線幅と同じにします。
+例:VPitch=7.21
 
-�@�@(2-2-30)�X�֔ԍ��g�^/�����ԃs�b�`
-����:ExPitch
-����:�X�֔ԍ��g����4���̕����Ԃ̃s�b�`���h�b�g�P�ʂŐݒ肵�܂��B
-���̍��ڂ��ȗ������ꍇ�́A�����ԃs�b�`=0�Ƃ��Ĉ����܂��B
-��:ExPitch=7.21
+　　(2-2-30)郵便番号枠型/文字間ピッチ
+書式:ExPitch
+説明:郵便番号枠末尾4桁の文字間のピッチをドット単位で設定します。
+この項目を省略した場合は、文字間ピッチ=0として扱われます。
+例:ExPitch=7.21
 
-�@�@(2-2-31)�A���t�B�[���h�����
-����:DataField
-����:�̈�Ɉ������f�[�^�x�[�X�̃t�B�[���h��ݒ肵�܂��B
-�ݒ�l:�e����(�t�B�[���h)�̏�����
-j �Z��  
-n ���O  
-k �h��      
-y �X�֔ԍ�  
-t �d�b  
-e E���[��  
-h �z�[���y�[�W
-d �N����
-m ���l  
-sj ���o�l  �Z��  
-sn ���o�l  ���O  
-sy ���o�l  �X�֔ԍ�  
-st ���o�l  �d�b
-  �������C�A�E�g�ł�
-�@st1 ���o�l  �d�b�ԍ�
-�@st2 ���o�l  FAX
-�@st3 ���o�l  �g�ѓd�b�ԍ� 
-se ���o�l  E���[��  
-Q �₢���킹�^�B ����̒��O�Ɉ�����镶������͂ł��܂��B
-���₢���킹�^�ȊO�̃t�B�[���h�ɂ͔ԍ������܂��B�Ⴆ�ΏZ���̏ꍇ�́Aj�ł͂Ȃ�j1��j2�̂悤�ɋL�q���܂��Bj1�Ƃ͏Z���^�t�B�[���h��1�Ԗڂ�\���܂��B
-�������̃t�B�[���h���L�q����ꍇ�́@j1,j2 �̂悤�ɃR���}�ŋ�؂�܂��B
-�������̃t�B�[���h�̋L�q�͓��ꈵ���ƂȂ�܂��B�ł��邾���ЂƂ̗̈�ɂЂƂ̃t�B�[���h��ݒ肵�Ă��������B
-�����O�ƌh�̂̓}�C�i�X�L���ŘA���L�q���\�ł��B��:n1-k1
-���₢���킹�^�͓��ʂȐݒ�ƂȂ�܂��B���L�̐��������ɏ]���Ă��������B
-�@1.�₢���킹�^���L�q����ꍇ�́A�啶����Q�������L�q���܂��B
-�@2.�₢���킹�^�̏����l��Text���Őݒ�\�ł��B
-�@3.�₢���킹�^�̃K�C�h�����́ALabel���Őݒ�\�ł��B
-��1:�Z���^�t�B�[���h��2�Ԗ�(�Z��2)���������ꍇ
+　　(2-2-31)連結フィールドを印刷
+書式:DataField
+説明:領域に印刷するデータベースのフィールドを設定します。
+設定値:各項目(フィールド)の書式は
+j 住所  
+n 名前  
+k 敬称      
+y 郵便番号  
+t 電話  
+e Eメール  
+h ホームページ
+d 年月日
+m 備考  
+sj 差出人  住所  
+sn 差出人  名前  
+sy 差出人  郵便番号  
+st 差出人  電話
+  自動レイアウトでは
+　st1 差出人  電話番号
+　st2 差出人  FAX
+　st3 差出人  携帯電話番号 
+se 差出人  Eメール  
+Q 問い合わせ型。 印刷の直前に印刷する文字を入力できます。
+※問い合わせ型以外のフィールドには番号をつけます。例えば住所の場合は、jではなくj1やj2のように記述します。j1とは住所型フィールドの1番目を表します。
+※複数のフィールドを記述する場合は　j1,j2 のようにコンマで区切ります。
+※複数のフィールドの記述は特殊扱いとなります。できるだけひとつの領域にひとつのフィールドを設定してください。
+※名前と敬称はマイナス記号で連結記述が可能です。例:n1-k1
+※問い合わせ型は特別な設定となります。下記の制限事項に従ってください。
+　1.問い合わせ型を記述する場合は、大文字のQだけを記述します。
+　2.問い合わせ型の初期値はText文で設定可能です。
+　3.問い合わせ型のガイド音声は、Label文で設定可能です。
+例1:住所型フィールドの2番目(住所2)を印刷する場合
 DataField=j2
-��2:1�s�ڂɖ��O1+�h��1�A2�s�ڂɖ��O2+�h��2�@���������ꍇ
+例2:1行目に名前1+敬称1、2行目に名前2+敬称2　を印刷する場合
 DataField=n1-k1,n2-k2
-��3:����̒��O�ɕ��������͂��Ĉ������B
-�����K�C�h�u���A������́v�A���͂̏����l�u����ɂ��́v�̏ꍇ
-Label="���A�������"
+例3:印刷の直前に文字列を入力して印刷する。
+音声ガイド「挨拶文を入力」、入力の初期値「こんにちは」の場合
+Label="挨拶文を入力"
 DataField=Q
-Text="����ɂ���"
+Text="こんにちは"
 
-�@�@(2-2-32)�e�L�X�g�����
-����:Text
-����:�̈�Ɉ������e�L�X�g�����𒼐ڐݒ肷��B
-�ő啶����255�����B
-�A���t�B�[���h��ݒ肵�Ă���Ƃ��́A�����ƂȂ�܂��B
-�������A�A���t�B�[���h�Ŗ₢���킹�^��ݒ肵�Ă���ꍇ�������܂��B
-�ݒ�l:�������ݒ肵�܂��B���̏��������p�\�ł��B
-%p ���݈�����̃y�[�W
-%P �S�y�[�W��
-%y ����N4���@��:1999
-%m ��2�� ��:12
-%d ��2�� ��:31
-%t ���� ��:05:10
-%K ���ږ��@��:�Z���^1�̍��ږ����������ꍇ�@%Kj1
-\n ���s�R�[�h
-��\��%�𐧌䕶���Ƃ��ė��p���Ă��邽�߁A���̊g���������L�q�\�ł��B
-\\ \(�G���}�[�N)
-\" "(�R�[�e�[�V����)
-\% %(�p�[�Z���g)
-��1:�u����ɂ��́v�ƈ������ꍇ
-Text="����ɂ���"
-��2:�y�[�W�ԍ����������ꍇ
-Text="������̃y�[�W�́A%p�ł��B�O�y�[�W����%P�ł��B"
-��3:���ʂ��Ń����^2�̍��ږ����������
-Text="�y%Km2�z"
+　　(2-2-32)テキストを印刷
+書式:Text
+説明:領域に印刷するテキスト文字を直接設定する。
+最大文字数255文字。
+連結フィールドを設定しているときは、無効となります。
+ただし、連結フィールドで問い合わせ型を設定している場合を除きます。
+設定値:文字列を設定します。次の書式が利用可能です。
+%p 現在印刷中のページ
+%P 全ページ数
+%y 西暦年4桁　例:1999
+%m 月2桁 例:12
+%d 日2桁 例:31
+%t 時分 例:05:10
+%K 項目名　例:住所型1の項目名を印刷する場合　%Kj1
+\n 改行コード
+※\と%を制御文字として利用しているため、次の拡張文字が記述可能です。
+\\ \(エンマーク)
+\" "(コーテーション)
+\% %(パーセント)
+例1:「こんにちは」と印刷する場合
+Text="こんにちは"
+例2:ページ番号を印刷する場合
+Text="印刷中のページは、%pです。前ページ数は%Pです。"
+例3:括弧つきでメモ型2の項目名を印刷する
+Text="【%Km2】"
 
-�@�@(2-2-33)�r�b�g�}�b�v�����
-����:BitMap
-����:�̈�Ɉ������摜���t�@�C�����Őݒ肵�܂��B
-����:�A���t�B�[���h��e�L�X�g��ݒ肵�Ȃ����ƁB
-�摜�͊g���qBMP�̃r�b�g�}�b�v�t�@�C���ł��B
-��:BitMap="�G�͂���.bmp"
-���r�b�g�}�b�v�t�@�C���́A���g���̃v�����^�̐��\�ɍ��킹�Ĉ������܂��B
-���r�b�g�}�b�v�t�@�C���́A�̈�̑傫���ɍ��킹�Ď����I�Ɋg��܂��͏k������܂��B
-���ʐ^�Ȃǂ�����������ꍇ��200dpi�ȏ�̉摜���������߂��܂��B
+　　(2-2-33)ビットマップを印刷
+書式:BitMap
+説明:領域に印刷する画像をファイル名で設定します。
+条件:連結フィールドやテキストを設定しないこと。
+画像は拡張子BMPのビットマップファイルです。
+例:BitMap="絵はがき.bmp"
+※ビットマップファイルは、お使いのプリンタの性能に合わせて印刷されます。
+※ビットマップファイルは、領域の大きさに合わせて自動的に拡大または縮小されます。
+※写真などを印刷したい場合は200dpi以上の画像をおすすめします。
 
 
-�@�@(2-3)���������E�⑫
+　　(2-3)制限事項・補足
 
-���R�����g�̋L�q
-;(�Z�~�R����)�ȍ~�̕�������R�����g�Ƃ��ė��p�ł��܂��B
-����������
-������(�C���f���g)�ɂ́A���p�󔒂܂���Tab���g�p�ł��܂��B
-���X�֔ԍ��g�^�̗̈�ɂ���
-�X�֔ԍ��g�̋L�q�́A�ȉ��̃T���v���𗘗p���Ă��������B
-�p���̑傫���ɉ����āALeft��ExLeft�̐ݒ��ύX���邾����
-�����p���������܂��B
+●コメントの記述
+;(セミコロン)以降の文字列をコメントとして利用できます。
+●字下げ等
+字下げ(インデント)には、半角空白またはTabを使用できます。
+●郵便番号枠型の領域について
+郵便番号枠の記述は、以下のサンプルを利用してください。
+用紙の大きさに応じて、LeftとExLeftの設定を変更するだけで
+ご利用いただけます。
 Begin
-	Label="���� �X�֔ԍ�"
+	Label="宛名 郵便番号"
 	Type=20
 	Left  =44.50
 	Top   =12.00
@@ -552,7 +553,7 @@ Begin
 	Alignment=Left
 	VAlignment=Middle
 	Vertical=False
-	FontName="MS �S�V�b�N"
+	FontName="MS ゴシック"
 	FontSize=16
 	FontBold=True
 	Pitch=6.80
@@ -561,37 +562,37 @@ Begin
 End
 
 
-�@(3)����t�H�[���e�L�X�g�̎��o��(�t�R���p�C��)
+　(3)印刷フォームテキストの取り出し(逆コンパイル)
 
-�}�C�A�N�Z�X�̈���t�H�[���f�[�^�x�[�X���A����t�H�[���e�L�X�g�����o�����Ƃ��ł��܂��B
-�}�C�A�N�Z�X�̃C���X�g�[���t�H���_���ɂ������t�H�[���t�R���p�C���@DisPL.EXE ���N�����Ďw���ɏ]���Ă��������B
-�@1.���͐�:����t�H�[���f�[�^�x�[�X(PrintForm7.mdb)����͂��܂��B
-�@2.�o�͐�:�e�L�X�g�̏o�͐�t�H���_����͂��܂��B
-�@3.���X�g������o����������t�H�[����I�����܂��B
-  4.����t�H�[���e�L�X�g���o�͂���܂��B
-���̋t�R���p�C���́A�ȈՃc�[���\�t�g�ł��B����́AWindows�W���ƂȂ�܂��B
+マイアクセスの印刷フォームデータベースより、印刷フォームテキストを取り出すことができます。
+マイアクセスのインストールフォルダ内にある印刷フォーム逆コンパイラ　DisPL.EXE を起動して指示に従ってください。
+　1.入力先:印刷フォームデータベース(PrintForm7.mdb)を入力します。
+　2.出力先:テキストの出力先フォルダを入力します。
+　3.リストから取り出したい印刷フォームを選択します。
+  4.印刷フォームテキストが出力されます。
+この逆コンパイラは、簡易ツールソフトです。操作は、Windows標準となります。
 
 
-�@(4)�T���v���L�q��
+　(4)サンプル記述例
 
-�ȍ~�͔N��͂����̈���t�H�[���e�L�X�g��ł��B
+以降は年賀はがきの印刷フォームテキスト例です。
 
 ;
-; ����́A�N��͂����c�����̋L�q�T���v���ł��B
+; これは、年賀はがき縦書きの記述サンプルです。
 ;
 FormVersion=1.00
-FormName="�N��͂���"
-FormGuide="�ݶ�ʶ޷"
+FormName="年賀はがき"
+FormGuide="ﾈﾝｶﾞﾊｶﾞｷ"
 FormHeight=148.00
 FormWidth=100.00
 FormFigure=1
 GroupID=10
 DispIndex=2
-FormBitMap="�N��͂���_S.bmp"
-FormBitMapPrev="�N��͂���.bmp"
+FormBitMap="年賀はがき_S.bmp"
+FormBitMapPrev="年賀はがき.bmp"
 
 Begin
-	Label="���� �X�֔ԍ�"
+	Label="宛名 郵便番号"
 	Type=20
 	Left  =44.50
 	Top   =12.00
@@ -604,7 +605,7 @@ Begin
 	Alignment=Left
 	VAlignment=Middle
 	Vertical=False
-	FontName="�l�r �S�V�b�N"
+	FontName="ＭＳ ゴシック"
 	FontSize=16
 	FontBold=True
 	Pitch=6.80
@@ -613,7 +614,7 @@ Begin
 End
 
 Begin
-	Label="���� �Z��"
+	Label="宛名 住所"
 	Type=10
 	Left  =70.00
 	Top   =25.00
@@ -629,7 +630,7 @@ Begin
 End
 
 Begin
-	Label="���� ����"
+	Label="宛名 氏名"
 	Type=11
 	Left  =40.00
 	Top   =30.00
@@ -645,7 +646,7 @@ Begin
 End
 
 Begin
-	Label="���o�l �X�֔ԍ�"
+	Label="差出人 郵便番号"
 	Type=20
 	Left  =5.20
 	Top   =124.00
@@ -658,7 +659,7 @@ Begin
 	Alignment=Left
 	VAlignment=Middle
 	Vertical=False
-	FontName="�l�r �S�V�b�N"
+	FontName="ＭＳ ゴシック"
 	FontSize=9
 	FontBold=True
 	Pitch=4.00
@@ -667,7 +668,7 @@ Begin
 End
 
 Begin
-	Label="���o�l �Z��"
+	Label="差出人 住所"
 	Type=12
 	Left  =28.00
 	Top   =65.00
@@ -683,7 +684,7 @@ Begin
 End
 
 Begin
-	Label="���o�l ����"
+	Label="差出人 氏名"
 	Type=13
 	Left  =15.00
 	Top   =75.00
@@ -699,7 +700,7 @@ Begin
 End
 
 Begin
-	Label="���o�l �ԍ�"
+	Label="差出人 番号"
 	Type=14
 	Left  =5.00
 	Top   =75.00
@@ -714,21 +715,11 @@ Begin
 End
 
 
-�Q. ����t�H�[���e�L�X�g�t�@�C���̃R���p�C��
+２. 印刷フォームテキストファイルのコンパイル
 
-�쐬��������t�H�[���e�L�X�g�t�@�C���́A
-C:\Users\���[�U�[��\AppData\Roaming\KSD\MyAccess\pft�t�H���_�ɕۑ����Ă����܂��B
+作成した印刷フォームテキストファイルは、
+C:\Users\ユーザー名\AppData\Roaming\KSD\MyAccess\pftフォルダに保存しておきます。
 
-�@Ctrl+H�ŁA�z�[����ʂ���[�c�[��]��[����t�H�[���̃R���p�C��(�㋉�Ҍ���)]�����s���܂��B
-�i�܂��́A����t�H�[���̃R���p�C���R�}���h Ctrl+Shift+Alt+F10�ł����s�ł��܂��j
-
-�A���ӎ����̈ē����b�Z�[�W�̂��ƁA�u����t�H�[���f�[�^�x�[�X�̍쐬���J�n���܂����E�E�E�v�̃K�C�h������܂��B
-�u�͂��v��Enter�������Ɖ�͂��J�n����܂��B
-
-�B���΂炭����Ɓu��͂��I�����܂����v�̃��b�Z�[�W���\������܂��BEnter�������ƌ��̉�ʂɖ߂�܂��B
-
-�ȏ�ŁA����t�H�[���e�L�X�g���|�󂳂�A�}�C�A�N�Z�X�̈���t�H�[���Ƃ��� PrintForm7.mdb ���o�^����܂��B
-���̃t�@�C���́AC:\Users\���[�U�[��\AppData\Roaming\KSD\MyAccess\sys�t�H���_�ɍ쐬����܂��B
 </pre>
 </body>
 </html>
