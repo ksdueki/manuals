@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="shift_jis" ?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+
+	<title>MyBookⅤ マニュアル</title>
+	<linkBase />
+
+<!-- はじめに -->
+	<item>
+		<category>はじめに/マイブックの概要</category>
+		<link>はじめに/マイブックの概要.htm</link>
+	</item>
+	<item>
+		<category>はじめに/マイブックの動作環境</category>
+		<link>はじめに/マイブックの動作環境.htm</link>
+	</item>
+	<item>
+		<category>はじめに/マニュアルの表記について</category>
+		<link>はじめに/マニュアルの表記について.htm</link>
+	</item>
+	<item>
+		<category>はじめに/マニュアルの読み上げ方について</category>
+		<link>はじめに/マニュアルの読み上げ方について.htm</link>
+	</item>
+	<item>
+		<category>はじめに/著作権について</category>
+		<link>はじめに/著作権について.htm</link>
+	</item>
+
+<!-- マイブックの起動と終了 -->
+	<item>
+		<category>マイブックの起動と終了/マイブックの起動</category>
+		<link>マイブックの起動と終了/マイブックの起動.htm</link>
+	</item>
+	<item>
+		<category>マイブックの起動と終了/マイブックの終了</category>
+		<link>マイブックの起動と終了/マイブックの終了.htm</link>
+	</item>
+
+<!-- 読書を始めよう -->
+	<item>
+		<category>読書を始めよう/インターネット上の図書を読む/サピエ図書館</category>
+		<link>読書を始めよう/サピエ図書館.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/インターネット上の図書を読む/青空文庫</category>
+		<link>読書を始めよう/青空文庫.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/インターネット上の図書を読む/国立国会図書館</category>
+		<link>読書を始めよう/国立国会図書館.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/インターネット上の図書を読む/小説を読もう！</category>
+		<link>読書を始めよう/小説を読もう.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/インターネット上の図書を読む/クラウドストレージ</category>
+		<link>読書を始めよう/オンラインストレージ.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/メディアに入っている図書を読む/デイジーＣＤ</category>
+		<link>読書を始めよう/デイジーＣＤ.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/メディアに入っている図書を読む/オーディオブックＣＤ</category>
+		<link>読書を始めよう/オーディオブックＣＤ.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/メディアに入っている図書を読む/携帯プレイヤー</category>
+		<link>読書を始めよう/携帯プレイヤー.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/メディアに入っている図書を読む/携帯プレイヤー（アップル製品）</category>
+		<link>読書を始めよう/携帯プレイヤー（アップル製品）.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/ディスクに保存している図書を読む</category>
+		<link>読書を始めよう/ディスクに保存している図書を読む.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/図書を探す/サイトから図書検索</category>
+		<link>読書を始めよう/サイトから図書検索.htm</link>
+	</item>
+	<item>
+		<category>読書を始めよう/図書を探す/本棚から図書抽出</category>
+		<link>読書を始めよう/本棚から図書抽出.htm</link>
+	</item>
+
+<!-- 画面の基本操作 -->
+	<item>
+		<category>画面の基本操作/画面の種類</category>
+		<link>画面の基本操作/画面の種類.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/メニュー選択画面</category>
+		<link>画面の基本操作/メニュー選択画面.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/図書一覧画面/図書一覧の操作</category>
+		<link>画面の基本操作/図書一覧の操作.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/図書一覧画面/図書一覧の読み上げ</category>
+		<link>画面の基本操作/図書一覧の読み上げ.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/図書一覧画面/図書内の見出し</category>
+		<link>画面の基本操作/図書内の見出し.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/テキストの読み上げ画面/カーソルの移動</category>
+		<link>画面の基本操作/カーソルの移動.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/テキストの読み上げ画面/本文の読み上げ</category>
+		<link>画面の基本操作/本文の読み上げ.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/テキストの読み上げ画面/本文読み上げ中の操作</category>
+		<link>画面の基本操作/本文読み上げ中の操作.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/テキストの読み上げ画面/本文からリンクされた別の本文を開く</category>
+		<link>画面の基本操作/本文からリンクされた別の本文を開く.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/テキストの読み上げ画面/本文からリンクされたメディアを開く</category>
+		<link>画面の基本操作/本文からリンクされたメディアを開く.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/テキストの読み上げ画面/本文からリンクされた画像を開く</category>
+		<link>画面の基本操作/本文からリンクされた画像を開く.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/デイジーの再生画面</category>
+		<link>画面の基本操作/デイジーの再生画面.htm</link>
+	</item>
+	<item>
+		<category>画面の基本操作/メディアの再生画面</category>
+		<link>画面の基本操作/メディアの再生画面.htm</link>
+	</item>
+
+<!-- 本棚を活用しよう -->
+	<item>
+		<category>本棚を活用しよう/本棚の新規作成</category>
+		<link>本棚を活用しよう/本棚の新規作成.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/図書を保存する</category>
+		<link>本棚を活用しよう/図書を保存する.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/図書を削除する</category>
+		<link>本棚を活用しよう/図書を削除する.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の編集/本棚の名前変更</category>
+		<link>本棚を活用しよう/本棚の名前変更.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の編集/本棚の並び替え</category>
+		<link>本棚を活用しよう/本棚の並び替え.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の編集/本棚の削除</category>
+		<link>本棚を活用しよう/本棚の削除.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の編集/フォルダの新規作成</category>
+		<link>本棚を活用しよう/フォルダの新規作成.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の整理/本棚内の並び替え</category>
+		<link>本棚を活用しよう/本棚内の並び替え.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の整理/別の本棚へ移動</category>
+		<link>本棚を活用しよう/別の本棚へ移動.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の整理/別の本棚へ複写</category>
+		<link>本棚を活用しよう/別の本棚へ複写.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚の整理/本棚外に書き出し</category>
+		<link>本棚を活用しよう/本棚外に書き出し.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚データの管理/バックアップとリストア</category>
+		<link>本棚を活用しよう/バックアップとリストア.htm</link>
+	</item>
+	<item>
+		<category>本棚を活用しよう/本棚データの管理/保存先の切替</category>
+		<link>本棚を活用しよう/保存先の切替.htm</link>
+	</item>
+
+<!-- 便利な機能 -->
+	<item>
+		<category>便利な機能/文字列の検索/図書一覧の検索</category>
+		<link>便利な/図書一覧の検索.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/文字列の検索/図書本文の検索</category>
+		<link>便利な/図書本文の検索.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/しおり/しおりを付ける</category>
+		<link>便利な/しおりを付ける.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/しおり/しおりの位置へ移動</category>
+		<link>便利な/しおりの位置へ移動.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/しおり/しおりの編集</category>
+		<link>便利な/しおりの編集.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/図書を送る/携帯プレイヤーに保存</category>
+		<link>便利な/携帯プレイヤーに保存.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/図書を送る/クラウドストレージに保存</category>
+		<link>便利な/オンラインストレージに保存.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/図書を送る/デイジーをＣＤドライブへ送る</category>
+		<link>便利な/デイジーをＣＤドライブへ送る.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/図書を送る/デイジーをリムーバブルドライブへ送る</category>
+		<link>便利な/デイジーをリムーバブルドライブへ送る.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/デイジー録音</category>
+		<link>便利な/デイジー録音.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/点字ファイルを点字エディタで開く</category>
+		<link>便利な/点字ファイルを点字エディタで開く.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/圧縮フォルダの利用</category>
+		<link>便利な/圧縮フォルダの利用.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/テンキー操作</category>
+		<link>便利な/テンキー操作.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/休憩タイマー</category>
+		<link>便利な/休憩タイマー.htm</link>
+	</item>
+  <item>
+    <category>便利な機能/読み辞書を編集する</category>
+    <link>便利な/読み辞書を編集する.htm</link>
+  </item>
+  <item>
+    <category>便利な機能/MP3タグを編集する</category>
+    <link>便利な/MP3タグを編集する.htm</link>
+  </item>
+
+  <!-- 図書やファイルの種類 -->
+	<item>
+		<category>図書やファイルの種類/デイジー図書</category>
+		<link>図書やファイルの種類/デイジー図書.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/オーディオブック</category>
+		<link>図書やファイルの種類/オーディオブック.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/点字図書</category>
+		<link>図書やファイルの種類/点字図書.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/PDFファイル</category>
+		<link>図書やファイルの種類/PDFファイル.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/EPUBファイル</category>
+		<link>図書やファイルの種類/EPUBファイル.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/Microsoft Officeファイル</category>
+		<link>図書やファイルの種類/Microsoft Officeファイル.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/点字ファイル</category>
+		<link>図書やファイルの種類/点字ファイル.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/.BOOKファイル</category>
+		<link>図書やファイルの種類/．BOOKファイル.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/ZIPファイル</category>
+		<link>図書やファイルの種類/ZIPファイル.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/MyWord 文書ファイル</category>
+		<link>図書やファイルの種類/MyWord 文書ファイル.htm</link>
+	</item>
+	<item>
+		<category>図書やファイルの種類/その他のファイル</category>
+		<link>図書やファイルの種類/その他のファイル.htm</link>
+	</item>
+
+<!-- 環境設定 -->
+	<item>
+		<category>環境設定/画面表示の設定/画面の拡大</category>
+		<link>環境設定/画面の拡大.htm</link>
+	</item>
+	<item>
+		<category>環境設定/画面表示の設定/表示オプションの設定</category>
+		<link>環境設定/表示オプションの設定.htm</link>
+	</item>
+	<item>
+		<category>環境設定/画面表示の設定/その他の表示設定</category>
+		<link>環境設定/その他の表示設定.htm</link>
+	</item>
+	<item>
+		<category>環境設定/図書オプションの設定</category>
+		<link>環境設定/図書オプションの設定.htm</link>
+	</item>
+	<item>
+		<category>環境設定/環境のクリーンアップ</category>
+		<link>環境設定/環境のクリーンアップ.htm</link>
+	</item>
+	<item>
+		<category>環境設定/マイブックを最新版に更新する</category>
+		<link>環境設定/マイブックを最新版に更新する.htm</link>
+	</item>
+
+<!-- フルキーコマンド -->
+	<item>
+		<category>フルキーコマンド/全般</category>
+		<link>フルキーコマンド/全般.htm</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/メニュー選択</category>
+		<link>フルキーコマンド/メニュー選択.htm</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/一覧の操作</category>
+		<link>フルキーコマンド/一覧の操作.htm</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/本文の参照</category>
+		<link>フルキーコマンド/本文の参照.htm</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/メディア 再生中の操作</category>
+		<link>フルキーコマンド/メディア再生中の操作.htm</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/音声デイジー 再生中の操作</category>
+		<link>フルキーコマンド/音声デイジー再生中の操作.htm</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/テキストデイジー 再生中の操作</category>
+		<link>フルキーコマンド/テキストデイジー再生中の操作.htm</link>
+	</item>
+	<item>
+		<category>フルキーコマンド/その他 全文読み中の操作</category>
+		<link>フルキーコマンド/その他全文読み中の操作.htm</link>
+	</item>
+
+<!-- 点字キーコマンド -->
+	<item>
+		<category>点字キーコマンド/全般</category>
+		<link>点字キーコマンド/全般.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/メニュー選択</category>
+		<link>点字キーコマンド/メニュー選択.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/一覧の操作</category>
+		<link>点字キーコマンド/一覧の操作.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/本文の参照</category>
+		<link>点字キーコマンド/本文の参照.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/メディア 再生中の操作</category>
+		<link>点字キーコマンド/メディア再生中の操作.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/音声デイジー 再生中の操作</category>
+		<link>点字キーコマンド/音声デイジー再生中の操作.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/テキストデイジー 再生中の操作</category>
+		<link>点字キーコマンド/テキストデイジー再生中の操作.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/その他 全文読み中の操作</category>
+		<link>点字キーコマンド/その他全文読み中の操作.htm</link>
+	</item>
+	<item>
+		<category>点字キーコマンド/５０オン順点字コマンド</category>
+		<link>点字キーコマンド/５０オン順点字コマンド.htm</link>
+	</item>
+
+<!-- 付録 -->
+	<item>
+		<category>補足１ 旧マイブックとの違い</category>
+		<link>付録/旧マイブックとの違い.htm</link>
+	</item>
+	<item>
+		<category>補足２ 更新履歴</category>
+		<link>付録/更新履歴.htm</link>
+	</item>
+
+</list-index>
