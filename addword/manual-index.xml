@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+		<title>OfficeWorks マニュアル</title>
+		<linkBase />
+		<item>
+				<category>はじめに/概要</category>
+				<link>01 概要.html</link>
+		</item>
+		<item>
+				<category>はじめに/動作環境</category>
+				<link>02 動作環境.html</link>
+		</item>
+		<item>
+				<category>はじめに/マニュアルの表記</category>
+				<link>03 マニュアルの表記.html</link>
+		</item>
+		<item>
+				<category>はじめに/マニュアルの読み上げ方</category>
+				<link>04 マニュアルの読み上げ方.html</link>
+		</item>
+		<item>
+				<category>はじめに/著作権について</category>
+				<link>05 著作権について.html</link>
+		</item>
+		<item>
+				<category>新規と保存や読み込み/新規作成</category>
+				<link>01 新規作成.html</link>
+		</item>
+		<item>
+				<category>新規と保存や読み込み/保存/名前を付けて保存</category>
+				<link>01 名前を付けて保存.html</link>
+		</item>
+		<item>
+				<category>新規と保存や読み込み/保存/上書き保存</category>
+				<link>02 上書き保存.html</link>
+		</item>
+		<item>
+				<category>新規と保存や読み込み/読み込み</category>
+				<link>03 読み込み.html</link>
+		</item>
+		<item>
+				<category>印刷/名刺印刷のサポート用紙</category>
+				<link>01 名刺印刷のサポート用紙.html</link>
+		</item>
+		<item>
+				<category>印刷/印刷の実行</category>
+				<link>02 印刷の実行.html</link>
+		</item>
+		<item>
+				<category>印刷/ページ設定</category>
+				<link>03 ページ設定.html</link>
+		</item>
+		<item>
+				<category>印刷/印刷プレビュー</category>
+				<link>04 印刷プレビュー.html</link>
+		</item>
+		<item>
+				<category>読み上げ/作成中の文章を読み上げる</category>
+				<link>01 作成中の文章を読み上げる.html</link>
+		</item>
+		<item>
+				<category>読み上げ/設定や環境を確認する</category>
+				<link>02 設定や環境を確認する.html</link>
+		</item>
+		<item>
+				<category>読み上げ/読み上げ方法を変更する</category>
+				<link>03 読み上げ方法を変更する.html</link>
+		</item>
+		<item>
+				<category>読み上げ/校正読み</category>
+				<link>04 校正読み.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/範囲選択方法/Windows標準の範囲選択手順</category>
+				<link>01 Windows標準の範囲選択手順.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/範囲選択方法/独自の範囲選択モードの手順</category>
+				<link>02 独自の範囲選択モードの手順.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/範囲選択方法/兼ね合わせた範囲選択モードの手順</category>
+				<link>03 兼ね合わせた範囲選択モードの手順.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/クリップボードと連動する編集操作/切り取り</category>
+				<link>01 切り取り.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/クリップボードと連動する編集操作/コピー</category>
+				<link>02 コピー.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/クリップボードと連動する編集操作/複写</category>
+				<link>03 複写.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/クリップボードと連動する編集操作/貼り付け</category>
+				<link>04 貼り付け.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/クリップボードと連動する編集操作/移動</category>
+				<link>05 移動.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/強調</category>
+				<link>01 強調.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/斜体</category>
+				<link>02 斜体.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/網掛け</category>
+				<link>03 網掛け.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/アンダーライン</category>
+				<link>04 アンダーライン.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/フォントの変更</category>
+				<link>05 フォントの変更.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/文字囲み</category>
+				<link>06 文字囲み.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/取消線</category>
+				<link>07 取消線.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/飾り色</category>
+				<link>08 飾り色.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/中抜き文字</category>
+				<link>09 中抜き文字.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/反転文字</category>
+				<link>10 反転文字.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/影付き文字</category>
+				<link>11 影付き文字.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/文字色</category>
+				<link>12 文字色.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/文字サイズ変更</category>
+				<link>13 文字サイズ変更.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/文字装飾/文字装飾を全てクリア</category>
+				<link>14 文字装飾を全てクリア.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/入力文字サイズの設定</category>
+				<link>04 入力文字サイズの設定.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/段落単位で設定する書式/行間隔の変更</category>
+				<link>01 行間隔の変更.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/段落単位で設定する書式/左右 中揃え</category>
+				<link>02 左右 中揃え.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/段落単位で設定する書式/インデント</category>
+				<link>03 インデント.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/検索と置換/検索</category>
+				<link>01 検索.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/検索と置換/次を検索</category>
+				<link>02 次を検索.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/検索と置換/前を検索</category>
+				<link>03 前を検索.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/検索と置換/置換</category>
+				<link>04 置換.html</link>
+		</item>
+		<item>
+				<category>いろいろな編集機能/アンドゥとリドゥ</category>
+				<link>07 アンドゥとリドゥ.html</link>
+		</item>
+		<item>
+				<category>表罫線/表作成</category>
+				<link>01 表作成.html</link>
+		</item>
+		<item>
+				<category>表罫線/セルへの文字入力</category>
+				<link>02 セルへの文字入力.html</link>
+		</item>
+		<item>
+				<category>表罫線/表内のカーソル移動</category>
+				<link>03 表内のカーソル移動.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/線種と太さの変更</category>
+				<link>01 線種と太さの変更.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/行挿入</category>
+				<link>02 行挿入.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/行削除</category>
+				<link>03 行削除.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/列挿入</category>
+				<link>04 列挿入.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/列削除</category>
+				<link>05 列削除.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/列幅の変更</category>
+				<link>06 列幅の変更.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/セルの上下余白</category>
+				<link>07 セルの上下余白.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/配置</category>
+				<link>08 配置.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/セル結合</category>
+				<link>09 セル結合.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/セル結合の解除</category>
+				<link>10 セル結合の解除.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/線の色</category>
+				<link>11 線の色.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/セルの背景色</category>
+				<link>12 セルの背景色.html</link>
+		</item>
+		<item>
+				<category>表罫線/表編集/表削除</category>
+				<link>13 表削除.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/画像の取り込み/ファイルより画像の取り込み</category>
+				<link>01 ファイルより画像の取り込み.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/画像の取り込み/スキャナより画像の取り込み</category>
+				<link>02 スキャナより画像の取り込み.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/画像の取り込み/取り込んだ画像について</category>
+				<link>03 取り込んだ画像について.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/画像の設定と削除/画像の設定</category>
+				<link>01 画像の設定.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/画像の設定と削除/画像幅のクイック変更</category>
+				<link>02 画像幅のクイック変更.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/画像の設定と削除/画像の削除</category>
+				<link>03 画像の削除.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/画像横の入力</category>
+				<link>03 画像横の入力.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/水平線の作成</category>
+				<link>04 水平線の作成.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/水平線の設定と削除/水平線の設定</category>
+				<link>01 水平線の設定.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/水平線の設定と削除/水平線幅のクイック変更</category>
+				<link>02 水平線幅のクイック変更.html</link>
+		</item>
+		<item>
+				<category>画像と水平線/水平線の設定と削除/水平線の削除</category>
+				<link>03 水平線の削除.html</link>
+		</item>
+		<item>
+				<category>画面表示と環境/拡大表示/編集画面の拡大</category>
+				<link>01 編集画面の拡大.html</link>
+		</item>
+		<item>
+				<category>画面表示と環境/拡大表示/メニューとダイアログの拡大</category>
+				<link>02 メニューとダイアログの拡大.html</link>
+		</item>
+		<item>
+				<category>画面表示と環境/マイワードとの連動オプション</category>
+				<link>02 マイワードとの連動オプション.html</link>
+		</item>
+		<item>
+				<category>コマンド一覧/コマンド一覧</category>
+				<link>01 コマンド一覧.html</link>
+		</item>
+		<item>
+				<category>点字コマンド一覧/点字コマンド一覧</category>
+				<link>01 点字コマンド一覧.html</link>
+		</item>
+</list-index>
