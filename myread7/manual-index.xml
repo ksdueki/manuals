@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+		<title>OfficeWorks マニュアル</title>
+		<linkBase />
+		<item>
+				<category>はじめに/マイリードの動作環境</category>
+				<link>01 マイリードの動作環境.html</link>
+		</item>
+		<item>
+				<category>はじめに/マニュアルの表記について</category>
+				<link>02 マニュアルの表記について.html</link>
+		</item>
+		<item>
+				<category>はじめに/マニュアルの読み上げ方について</category>
+				<link>03 マニュアルの読み上げ方について.html</link>
+		</item>
+		<item>
+				<category>マイリードを始めよう/起動するには</category>
+				<link>01 起動するには.html</link>
+		</item>
+		<item>
+				<category>マイリードを始めよう/終了するには</category>
+				<link>02 終了するには.html</link>
+		</item>
+		<item>
+				<category>マイリードを始めよう/起動時はメニュー操作から</category>
+				<link>03 起動時はメニュー操作から.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/スキャナーの準備</category>
+				<link>01 スキャナーの準備.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/スキャナーの確認と選択</category>
+				<link>02 スキャナーの確認と選択.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/スキャナー読み取り/用紙のセット</category>
+				<link>01 用紙のセット.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/スキャナー読み取り/読み取りの実行</category>
+				<link>02 読み取りの実行.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/スキャナー読み取り/認識率について</category>
+				<link>03 認識率について.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/読み取りオプション</category>
+				<link>04 読み取りオプション.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/複数枚の原稿を読み取るときの便利な方法/認識文書を追加しながら読み取る</category>
+				<link>01 認識文書を追加しながら読み取る.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/複数枚の原稿を読み取るときの便利な方法/連続して原稿を読み取る</category>
+				<link>02 連続して原稿を読み取る.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/スキャナーのボタンを利用する</category>
+				<link>06 スキャナーのボタンを利用する.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/スキャナーの設定コマンド</category>
+				<link>07 スキャナーの設定コマンド.html</link>
+		</item>
+		<item>
+				<category>スキャナーの読み取りの操作/原稿をページと表現</category>
+				<link>08 原稿をページと表現.html</link>
+		</item>
+		<item>
+				<category>ファイルからの読み取りの操作/PDFファイルの読み取り/全ページを読み取る</category>
+				<link>01 全ページを読み取る.html</link>
+		</item>
+		<item>
+				<category>ファイルからの読み取りの操作/PDFファイルの読み取り/埋め込みテキスト</category>
+				<link>02 埋め込みテキスト.html</link>
+		</item>
+		<item>
+				<category>ファイルからの読み取りの操作/画像ファイルからの読み取り</category>
+				<link>02 画像ファイルからの読み取り.html</link>
+		</item>
+		<item>
+				<category>ファイルからの読み取りの操作/デジタルカメラの注意点</category>
+				<link>03 デジタルカメラの注意点.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/カーソルの移動/カーソルを移動する</category>
+				<link>01 カーソルを移動する.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/カーソルの移動/現在のカーソル位置を音声で知る</category>
+				<link>02 現在のカーソル位置を音声で知る.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/カーソルの移動/カーソル移動時の文字の読み方を変更する</category>
+				<link>03 カーソル移動時の文字の読み方を変更する.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/カーソルの移動/カーソル移動の点字コマンド</category>
+				<link>04 カーソル移動の点字コマンド.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の読み上げ/文書を読み上げる</category>
+				<link>01 文書を読み上げる.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の読み上げ/読み上げの点字コマンド</category>
+				<link>02 読み上げの点字コマンド.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の読み上げ/校正読み</category>
+				<link>03 校正読み.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の編集/文字の挿入・削除</category>
+				<link>01 文字の挿入・削除.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の編集/コピー・切り取り・貼り付け</category>
+				<link>02 コピー・切り取り・貼り付け.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の編集/検索・置換</category>
+				<link>03 検索・置換.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の編集/元に戻す・やり直し</category>
+				<link>04 元に戻す・やり直し.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書の編集/編集の点字コマンド</category>
+				<link>05 編集の点字コマンド.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識文書と画像の連動について</category>
+				<link>04 認識文書と画像の連動について.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/認識オプションを設定する</category>
+				<link>05 認識オプションを設定する.html</link>
+		</item>
+		<item>
+				<category>認識文書の操作/読み上げオプションを設定する</category>
+				<link>06 読み上げオプションを設定する.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/見やすい画面に設定する/メニューやダイアログを拡大する</category>
+				<link>01 メニューやダイアログを拡大する.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/見やすい画面に設定する/文書を拡大する</category>
+				<link>02 文書を拡大する.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/見やすい画面に設定する/画像を拡大する</category>
+				<link>03 画像を拡大する.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/見やすい画面に設定する/画像の色を反転する</category>
+				<link>04 画像の色を反転する.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/見やすい画面に設定する/表示オプションを設定する</category>
+				<link>05 表示オプションを設定する.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/拡大読書の使い方/拡大読書の実行</category>
+				<link>01 拡大読書の実行.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/拡大読書の使い方/拡大読書中の操作</category>
+				<link>02 拡大読書中の操作.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/拡大読書の使い方/拡大読書の終了</category>
+				<link>03 拡大読書の終了.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/拡大読書の使い方/読み取り画像を拡大読書する</category>
+				<link>04 読み取り画像を拡大読書する.html</link>
+		</item>
+		<item>
+				<category>画面の設定と拡大読書/拡大読書の使い方/マーク機能を活用する</category>
+				<link>05 マーク機能を活用する.html</link>
+		</item>
+		<item>
+				<category>用紙判定/用紙判定の操作/用紙の読み取り面を確認する</category>
+				<link>01 用紙の読み取り面を確認する.html</link>
+		</item>
+		<item>
+				<category>用紙判定/用紙判定の操作/判定サイズを指定して確認する</category>
+				<link>02 判定サイズを指定して確認する.html</link>
+		</item>
+		<item>
+				<category>用紙判定/色について/マイリードの色の読み方</category>
+				<link>01 マイリードの色の読み方.html</link>
+		</item>
+		<item>
+				<category>用紙判定/色について/色の感じ方</category>
+				<link>02 色の感じ方.html</link>
+		</item>
+		<item>
+				<category>用紙判定/色について/色の世界</category>
+				<link>03 色の世界.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/文字認識</category>
+				<link>01 文字認識.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識情報を音声で確認する</category>
+				<link>02 認識情報を音声で確認する.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/MYREAD5互換認識</category>
+				<link>03 MYREAD5互換認識.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識領域を編集する/領域について</category>
+				<link>01 領域について.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識領域を編集する/領域を選択する</category>
+				<link>02 領域を選択する.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識領域を編集する/領域の削除</category>
+				<link>03 領域の削除.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識領域を編集する/領域のサイズ変更</category>
+				<link>04 領域のサイズ変更.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識領域を編集する/領域の追加</category>
+				<link>05 領域の追加.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識領域を編集する/領域のプロパティ変更</category>
+				<link>06 領域のプロパティ変更.html</link>
+		</item>
+		<item>
+				<category>文字認識と認識領域/認識領域を編集する/領域編集後の再認識について</category>
+				<link>07 領域編集後の再認識について.html</link>
+		</item>
+		<item>
+				<category>保存と印刷と送る/PDFファイルに保存</category>
+				<link>01 PDFファイルに保存.html</link>
+		</item>
+		<item>
+				<category>保存と印刷と送る/PDF形式の添付でメールを送る</category>
+				<link>02 PDF形式の添付でメールを送る.html</link>
+		</item>
+		<item>
+				<category>保存と印刷と送る/認識文書の保存</category>
+				<link>03 認識文書の保存.html</link>
+		</item>
+		<item>
+				<category>保存と印刷と送る/認識文書の印刷</category>
+				<link>04 認識文書の印刷.html</link>
+		</item>
+		<item>
+				<category>保存と印刷と送る/画像の保存</category>
+				<link>05 画像の保存.html</link>
+		</item>
+		<item>
+				<category>保存と印刷と送る/画像の印刷</category>
+				<link>06 画像の印刷.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像の読み込み方法/スキャナーから画像を読み込む</category>
+				<link>01 スキャナーから画像を読み込む.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像の読み込み方法/ファイルから画像を読み込む</category>
+				<link>02 ファイルから画像を読み込む.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像の読み込み方法/PDFから画像のみ読み込む</category>
+				<link>03 PDFから画像のみ読み込む.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像を回転する</category>
+				<link>01 画像を回転する.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像の傾きを補正する</category>
+				<link>02 画像の傾きを補正する.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像の余白を除去する</category>
+				<link>03 画像の余白を除去する.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像を伸縮する</category>
+				<link>04 画像を伸縮する.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像の明るさを調整する</category>
+				<link>05 画像の明るさを調整する.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像の色を減少させる</category>
+				<link>06 画像の色を減少させる.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像の色を反転させる</category>
+				<link>07 画像の色を反転させる.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像を編集する/画像をコピーする</category>
+				<link>08 画像をコピーする.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像情報を読み上げる</category>
+				<link>03 画像情報を読み上げる.html</link>
+		</item>
+		<item>
+				<category>画像の活用法/画像プロパティ</category>
+				<link>04 画像プロパティ.html</link>
+		</item>
+		<item>
+				<category>その他の機能/環境のクリーンアップ</category>
+				<link>01 環境のクリーンアップ.html</link>
+		</item>
+		<item>
+				<category>その他の機能/標準のPDFビューアにする</category>
+				<link>02 標準のPDFビューアにする.html</link>
+		</item>
+		<item>
+				<category>その他の機能/マイリードを最新版に更新</category>
+				<link>03 マイリードを最新版に更新.html</link>
+		</item>
+		<item>
+				<category>その他の機能/バーチャルプリンタ</category>
+				<link>04 バーチャルプリンタ.html</link>
+		</item>
+		<item>
+				<category>その他の機能/BrailleWorks対応について</category>
+				<link>05 BrailleWorks対応について.html</link>
+		</item>
+		<item>
+				<category>テンキーコマンド/テンキーコマンドを有効にする</category>
+				<link>01 テンキーコマンドを有効にする.html</link>
+		</item>
+		<item>
+				<category>テンキーコマンド/テンキーコマンド一覧</category>
+				<link>02 テンキーコマンド一覧.html</link>
+		</item>
+		<item>
+				<category>フルキーコマンド一覧/フルキーコマンド一覧</category>
+				<link>01 フルキーコマンド一覧.html</link>
+		</item>
+		<item>
+				<category>点字コマンド一覧/点字コマンド一覧</category>
+				<link>01 点字コマンド一覧.html</link>
+		</item>
+		<item>
+				<category>補足１ マイリード5と7の違い/追加した機能</category>
+				<link>01 追加した機能.html</link>
+		</item>
+		<item>
+				<category>補足１ マイリード5と7の違い/変更した機能</category>
+				<link>02 変更した機能.html</link>
+		</item>
+		<item>
+				<category>補足１ マイリード5と7の違い/廃止した機能</category>
+				<link>03 廃止した機能.html</link>
+		</item>
+		<item>
+				<category>補足２ 更新履歴/更新履歴</category>
+				<link>01 更新履歴.html</link>
+		</item>
+</list-index>
