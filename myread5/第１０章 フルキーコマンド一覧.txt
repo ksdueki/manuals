@@ -1,0 +1,218 @@
+マイリードのフルキーコマンドを一覧します。
+
+MYREAD5　第１０章　フルキーコマンド一覧
+
+
+
+●全般
+  マイリードの終了                 Alt + F4
+  マニュアルを読む                 F1
+
+
+●読み取り
+  次の原稿を読み取る               F2  ※読み取り方法は選択メニューに従う
+  連続読み取りの実行               F3  ※読み取り方法は選択メニューに従う
+  読み取りの中止                   Escape
+  》認識文書を自動読み上げ中の操作
+      次の領域読み上げへ進む       Space
+      読み上げの停止               Shift
+  読み取りオプションの設定         Shift + F2
+  認識結果の追加・クリア切替       Ctrl + F2
+
+
+▼【拡大読書】画面の操作
+●【拡大読書】…… マウス操作
+  画像のスクロール                 マウス移動
+  画像の拡大                       左ボタンのクリック
+  画像の縮小                       右ボタンのクリック
+  拡大読書画面の終了               Shift + 左ボタンのクリック
+  拡大読書画面へ切替               Shift + 左ボタンのクリック
+●【拡大読書】…… キー操作
+  画像のスクロール                 ↑ ↓ ← →
+  画像の高速スクロール             Shift を押しながら ↑ ↓ ← →
+  画像の拡大                       PageDown
+  画像の縮小                       PageUp
+  クイック拡大                     Tab       ※Tabを押している間だけ拡大
+  画像の右90度回転                 Ctrl + R
+  画像の表示色 反転                Ctrl + I
+  拡大読書操作のヘルプ             F1        ※Escapeを押してヘルプ終了
+  拡大読書画面の終了               Escape
+  拡大読書画面へ切替               Shift + F6
+  》マークの操作
+      横線を引く                   F2
+      横線を消す                   Shift + F2
+      縦線を引く                   F3
+      縦線を消す                   Shift + F3
+      線の色を変える               F4
+      線の太さを変える             Shift + F4
+      現在位置を記憶               F5
+      記憶位置にジャンプ           F6
+●【拡大読書】…… 読み取り画像の拡大読書（取込画像と認識画像）
+  読み取り画像を拡大読書画面で見る Shift + 左ボタンのクリック ※マウス操作
+                                   Shift + F6                 ※キー操作
+  取込画像と認識画像の表示切替     Ctrl + F6
+  》以下は、認識画像で有効
+      次の領域へ 表示位置を移動    Space
+      前の領域へ 表示位置を移動    Shift + Space
+      先頭領域へ 表示位置を移動    Home
+      最終領域へ 表示位置を移動    End
+
+
+●画像の読み込み
+  スキャン                         Ctrl  + F1 ※マイリードのスキャン画面を使用
+                                   Shift + F1 ※スキャナ専用のスキャン画面を使用
+  画像ファイルの読み込み           Ctrl + Shift + F1
+
+
+●認識
+  認識の実行                       F4
+  認識オプションの設定             Shift + F4
+
+
+●データの保存と印刷
+  認識文書の保存                   Ctrl + S または Ctrl + Shift + F2
+  認識文書の印刷                   Ctrl + P または Ctrl + Shift + F6
+  取り込み画像の保存               Ctrl + Shift + S
+  取り込み画像の印刷               Ctrl + Shift + P
+
+
+●表示
+  画面の拡大                       F6
+  画面の拡大率を上げる             Alt + PageDown
+  画面の拡大率を下げる             Alt + PageUp
+
+
+●読み取り方法の選択メニュー・画像画面・文書画面の操作切替
+  操作画面の切替                   Ctrl + Tab
+  読み取り方法の選択メニューへ戻る Escape
+  文書画面へ操作切替               Ctrl + T または Tab
+  画像画面へ操作切替               Ctrl + G
+
+
+▼【認識文書】画面の操作
+●【認識文書】…… カーソル移動
+  左の文字へ                       ←
+  右の文字へ                       →
+  上の行へ                         ↑
+  下の行へ                         ↓
+  行頭へ                           Home
+  行末へ                           End
+  前の段落へ                       Ctrl + ↑
+  次の段落へ                       Ctrl + ↓
+  文頭へ                           Ctrl + Home
+  文末へ                           Ctrl + End
+  次の表セルへ                     Ctrl + →
+  前の表セルへ                     Ctrl + ←
+  現在の原稿の先頭へ移動           Ctrl + Shift + Alt + Home
+  前の原稿へ移動                   PageUp
+  次の原稿へ移動                   PageDown
+  前のページへ移動                 Ctrl + PageUp
+  次のページへ移動                 Ctrl + PageDown
+●【認識文書】…… カーソル文字の読み上げ
+  カーソル位置の読み上げ           F9                 ※『原稿番号 行 列』
+                                   Ctrl + Shift + F9  ※『A4 ページ番号 行 列』
+  カーソル移動時の読み方切替       F8
+  フォネティック読みのオンオフ     Ctrl + Alt + T   ※PC-Talker
+                                   Ctrl + Alt + F9  ※VDM
+  点字符号読み                     Ctrl + Alt + F   ※PC-Talker
+                                   Ctrl + Alt + X   ※VDM
+  JISコード読み                    Ctrl + Alt + I   ※PC-Talker
+                                   Ctrl + Alt + N   ※VDM
+●【認識文書】…… なめらか読みの読み方切替
+  句点・括弧の読み方切替           Ctrl + Alt + F5  ※PC-Talker
+                                   Ctrl + Alt + F10 ※VDM
+  記号の読み方切替                 Ctrl + Alt + ;   ※PC-Talker
+  数字の読み方切替                 Ctrl + Alt + O   ※PC-Talker
+                                   Ctrl + Alt + F8  ※VDM
+  英語の読み方切替                 Ctrl + Alt + E   ※PC-Talker
+                                   Ctrl + Alt + F6  ※VDM
+●【認識文書】…… 文書の読み上げ
+  １行読み                         Alt + F8
+  行頭からカーソル手前読み         Ctrl + Alt + H   ※PC-Talker
+                                   Ctrl + Alt + J   ※VDM
+  カーソルから行末読み             Ctrl + Alt + K   ※PC-Talker
+                                   Ctrl + Alt + L   ※VDM
+  段落読み                         Alt + F9
+  表セル内読み                     Alt + F7
+  文頭から全文読み                 Alt + F5
+  カーソルから全文読み             Alt + F10
+  読み上げの中断                   Escape
+  》全文読み上げ中の操作
+      段落の先頭に戻る             ←
+      次の段落先頭に進む           ↓
+      前の段落先頭に戻る           ↑
+      次の文節に進む               →
+      次の行へ進む                 Enter
+      前の行へ戻る                 BackSpace
+      原稿の先頭へ戻る             Home
+      次の原稿へ進む               PageDown
+      前の原稿へ進む               PageUp
+      音声スピード切替             F7
+      音声ボリューム切替           F11
+●【認識文書】…… 日本語変換中の読み上げ
+  全文を読み上げる                 Ctrl + Alt + J   ※PC-Talker
+                                   Ctrl + Alt + K   ※VDM
+  反転表示内の読み上げ             Ctrl + Alt + H   ※PC-Talker
+                                   Ctrl + Alt + J   ※VDM
+  反転表示以降の読み上げ           Ctrl + Alt + K   ※PC-Talker
+                                   Ctrl + Alt + L   ※VDM
+  日本語変換の読み方切替           Ctrl + Alt + P   ※PC-Talker
+                                   Ctrl + Alt + /   ※VDM
+●【認識文書】…… その他の読み上げ
+  入力状態の読み上げ               Alt + F2 ※Caps カナ NumLock 変換状態をガイド
+  ページ設定の読み上げ             Alt + F3 ※認識文書のページスタイルをガイド
+  クリップボードの内容読み上げ     Ctrl + Alt + C   ※PC-Talker
+                                   Ctrl + Alt + 8   ※VDM
+●【認識文書】…… 文字の挿入・削除
+  挿入・上書の切替                 Insert
+  先読みエコーの切替               Ctrl + Shift + E
+  改行の挿入                       Enter
+  改ページの挿入                   Ctrl + Shift + Enter
+  カーソル上の文字削除             Delete
+  カーソル手前の文字削除           BackSpace
+  カーソル以降の右削除             Ctrl + Delete
+  全文削除                         Ctrl + Shift + A
+●【認識文書】…… 範囲選択
+  範囲選択の開始                   Alt + Enter
+  》範囲選択中の操作
+      選択単位の切替               Space
+      選択の中止                   Escape
+  すべて選択                       Ctrl + A
+  選択範囲の解除                   Escape
+●【認識文書】…… 編集
+  元に戻す                         Ctrl + Z または Alt + BackSpace
+  やり直し                         Ctrl + Y
+  切り取り                         Ctrl + X または Shift + Delete
+  コピー                           Ctrl + C または Ctrl + Insert
+  貼り付け                         Ctrl + V または Shift + Insert
+  検索                             Ctrl + F
+  次を検索                         Alt + ↓
+  前を検索                         Alt + ↑
+  置換                             Ctrl + H
+
+
+▼【画像】画面の操作（取込画像と認識画像）
+●【画像】…… 表示
+  画像の拡大率を上げる             Ctrl + [+]
+  画像の拡大率を下げる             Ctrl + [-]
+  画像の表示色 反転                Ctrl + I    ※認識画像に有効
+  取込画像と認識画像の表示切替     Ctrl + F6
+●【画像】…… 取込画像の操作
+  取込画像の右90度回転             Ctrl + R
+  取込画像を明るくする             Ctrl + U
+  取込画像を暗くする               Ctrl + D
+  取込画像のコピー                 Ctrl + C    ※画像画面上で有効
+●【画像】…… 認識画像の操作
+  ※以下は画像画面上の操作
+  次の原稿の画像を表示             PageDown
+  前の原稿の画像を表示             PageUp
+  次の領域へ 表示位置を移動        Space
+  前の領域へ 表示位置を移動        Shift + Space
+  先頭領域へ 表示位置を移動        Home
+  最終領域へ 表示位置を移動        End
+  領域の削除                       Delete
+
+
+●その他
+  日時読み上げ                     Ctrl + Shift + W
+  情報読み                         Ctrl + Alt + G  ※操作状態などをガイド

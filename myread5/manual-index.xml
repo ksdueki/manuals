@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+
+	<title>MyRead5 マニュアル</title>
+	<linkBase />
+
+	<!-- はじめに -->
+	<item>
+		<category>第１章はじめに</category>
+		<link>第１章はじめに.txt</link>
+	</item>
+	<item>
+		<category>第２章マイリードを始めよう</category>
+		<link>第２章マイリードを始めよう.txt</link>
+	</item>
+	<item>
+		<category>第３章読み取りの操作</category>
+		<link>第３章読み取りの操作.txt</link>
+	</item>
+	<item>
+		<category>第４章認識文書の操作</category>
+		<link>第４章認識文書の操作.txt</link>
+	</item>
+	<item>
+		<category>第５章拡大読書</category>
+		<link>第５章拡大読書.txt</link>
+	</item>
+	<item>
+		<category>第６章用紙判定とおさつ判定</category>
+		<link>第６章用紙判定とおさつ判定.txt</link>
+	</item>
+	<item>
+		<category>第７章高度な認識操作</category>
+		<link>第７章高度な認識操作.txt</link>
+	</item>
+	<item>
+		<category>第８章画像の活用法</category>
+		<link>第８章画像の活用法.txt</link>
+	</item>
+	<item>
+		<category>第９章ブレイルリーダーと点字原稿の読み取り</category>
+		<link>第９章ブレイルリーダーと点字原稿の読み取り.txt</link>
+	</item>
+	<item>
+		<category>第１０章フルキーコマンド一覧</category>
+		<link>第１０章フルキーコマンド一覧.txt</link>
+	</item>
+	<item>
+		<category>第１１章点字コマンド一覧</category>
+		<link>第１１章点字コマンド一覧.txt</link>
+	</item>
+	<item>
+		<category>補足１新機能</category>
+		<link>補足１新機能.txt</link>
+	</item>
+</list-index>
